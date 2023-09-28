@@ -1,8 +1,6 @@
-# Dashboard
+# Meadow Issues
 
-## Open Issues
-
-#### Needs Triage
+## Needs Triage
 
 | Issue | Title |
 |---|---|
@@ -20,7 +18,7 @@
 
 | Query |  |
 |:------|-:|
-| Pri-0 | [🔴 3](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-0%22%20label%3Aos) |
+| Pri-0 | [🔴 10](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-0%22) |
 | Pri-1 | [✅ 1](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-1%22%20label%3Aos) |
 | Pri-2 | [🔷 0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-2%22%20label%3Aos) |
 ## Meadow.Core
