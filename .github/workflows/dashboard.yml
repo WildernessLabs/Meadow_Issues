@@ -23,18 +23,17 @@ jobs:
             filename: 'dashboard.md'
           sections:
           - title: 'Open Issues by Priority'
-            description: 'Queries of issues by type, using their label.'
             widgets:
             - type: 'number'
-              title: 'Bug'
+              title: 'Pri-0'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-0"'
               color: 'red'
             - type: 'number'
-              title: 'Feature'
+              title: 'Pri-1'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-1"'
               color: 'green'
             - type: 'number'
-              title: 'Up for Grabs'
+              title: 'Pri-2'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2"'
               color: 'blue'
         token: ${{ secrets.token }}
