@@ -1,0 +1,36 @@
+name: Build Dashboard
+
+on:
+  schedule:
+  - cron: 0 * * * *
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+    - name: 'Generate Dashboard'
+      uses: ethomson/issue-dashboard@v1
+      with:
+        config: |
+          title: 'Dashboard'
+          output:
+            format: markdown
+            filename: 'dashboard.md'
+          sections:
+          - title: 'Pull Requests'
+            widgets:
+            - type: 'table'
+              title: 'New Pull Requests (This Week)'
+              issue_query: 'repo:libgit2/libgit2 is:open is:issue created:>{{ date("-7 days") }} sort:created-asc'
+        token: ${{ secrets.token }}
+
+    - name: Publish Documentation
+      run: |
+        git add .
+        git config user.name 'lamebrain'
+        git config user.email 'brian.kim@wildernesslabs.co'
+        git commit -m 'Documentation update' --allow-empty
+        git push origin main
