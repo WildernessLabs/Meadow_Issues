@@ -1,9 +1,11 @@
 name: Build Dashboard
 
-on:
-  schedule:
-  - cron: 0 * * * *
+# on:
+#   schedule:
+#   - cron: 0 * * * *
 
+on: workflow_dispatch
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
