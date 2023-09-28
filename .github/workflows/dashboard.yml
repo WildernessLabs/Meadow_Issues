@@ -22,16 +22,11 @@ jobs:
             format: markdown
             filename: 'dashboard.md'
           sections:
-          - type: 'table'
-            title: 'Needs Triage'
-            fields:
-            - title: 'Issue'
-              property: 'number'
-            - title: 'Date'
-              value: '{{ date(item.created_date) }}'
-            - title: 'Title'
-              property: 'title'
-            issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue no:label'
+          - title: 'Open Issues'
+            widgets:
+            - type: 'table'
+              title: 'Needs Triage'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue no:label'
           - title: 'Open Issues'
             widgets:
             - type: 'number'
