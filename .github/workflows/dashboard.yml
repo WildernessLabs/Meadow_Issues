@@ -85,13 +85,13 @@ jobs:
             widgets:
             - type: 'number'
               title: 'P0'
-              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-0" label:tools'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-0" label:tooling'
             - type: 'number'
               title: 'P1'
-              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-1" label:tools'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-1" label:tooling'
             - type: 'number'
               title: 'P2'
-              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2" label:tools'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2" label:tooling'
           - title: 'Documentation'
             widgets:
             - type: 'number'
