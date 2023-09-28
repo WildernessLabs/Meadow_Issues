@@ -22,7 +22,6 @@ jobs:
             format: markdown
             filename: 'dashboard.md'
           sections:
-          sections:
           - title: 'Open Issues by Priority'
             description: 'Queries of issues by type, using their label.'
             widgets:
