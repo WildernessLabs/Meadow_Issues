@@ -1,5 +1,7 @@
 # Meadow Issues
 
+Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_Issues/issues/new/choose) related to Meadow. Thanks!
+
 ## Needs Triage
 
 | Issue | Title |
