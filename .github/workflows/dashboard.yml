@@ -22,25 +22,24 @@ jobs:
             format: markdown
             filename: 'dashboard.md'
           sections:
-          - title: 'Open Issues'
+          - title: 'Needs Triage'
             widgets:
             - type: 'table'
-              title: 'Needs Triage'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue no:label'
           - title: 'Open Issues'
             widgets:
-            - type: 'number'
-              title: 'Pri-0'
-              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-0"'
-              color: 'red'
-            - type: 'number'
-              title: 'Pri-1'
-              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-1"'
-              color: 'green'
-            - type: 'number'
-              title: 'Pri-2'
-              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2"'
-              color: 'blue'
+            - type: 'table'
+              title: 'Open Issues'
+              headers:
+              - Type
+              - Count
+              elements:
+              - type: 'number'
+                issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-0"'
+              - type: 'number'
+                issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-1"'
+              - type: 'number'
+                issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2"'
           - title: 'Meadow.OS'
             widgets:
             - type: 'number'
