@@ -22,7 +22,7 @@ jobs:
             format: markdown
             filename: 'dashboard.md'
           sections:
-          - title: 'Open Issues by Priority'
+          - title: 'Open Issues'
             widgets:
             - type: 'number'
               title: 'Pri-0'
@@ -36,7 +36,7 @@ jobs:
               title: 'Pri-2'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2"'
               color: 'blue'
-          - title: 'Meadow.OS Issues by Priority'
+          - title: 'Meadow.OS'
             widgets:
             - type: 'number'
               title: 'Pri-0'
@@ -50,7 +50,7 @@ jobs:
               title: 'Pri-2'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2" label:os'
               color: 'blue'
-          - title: 'Meadow.Core Issues by Priority'
+          - title: 'Meadow.Core'
             widgets:
             - type: 'number'
               title: 'Pri-0'
@@ -64,7 +64,7 @@ jobs:
               title: 'Pri-2'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2" label:core'
               color: 'blue'
-          - title: 'Meadow.Foundation Issues by Priority'
+          - title: 'Meadow.Foundation'
             widgets:
             - type: 'number'
               title: 'Pri-0'
@@ -78,7 +78,7 @@ jobs:
               title: 'Pri-2'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2" label:foundation'
               color: 'blue'
-          - title: 'Meadow.Cloud Issues by Priority'
+          - title: 'Meadow.Cloud'
             widgets:
             - type: 'number'
               title: 'Pri-0'
@@ -92,7 +92,7 @@ jobs:
               title: 'Pri-2'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2" label:cloud'
               color: 'blue'
-          - title: 'Developer Tooling Issues by Priority'
+          - title: 'Tooling'
             widgets:
             - type: 'number'
               title: 'Pri-0'
@@ -106,7 +106,7 @@ jobs:
               title: 'Pri-2'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2" label:tools'
               color: 'blue'
-          - title: 'Documentation Issues by Priority'
+          - title: 'Documentation'
             widgets:
             - type: 'number'
               title: 'Pri-0'
