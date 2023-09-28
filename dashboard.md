@@ -1,10 +1,11 @@
 # Dashboard
 
-## Pull Requests
+## Open Issues by Priority
 
-#### New Pull Requests (This Week)
+Queries of issues by type, using their label.
 
-| Issue | Title |
-|---|---|
-| [6637](https://github.com/libgit2/libgit2/issues/6637) | [ Mismatched binary detection behaviour on diffs](https://github.com/libgit2/libgit2/issues/6637) |
-| [6639](https://github.com/libgit2/libgit2/issues/6639) | [Ownership checks make Android usage impossible](https://github.com/libgit2/libgit2/issues/6639) |
+| Query |  |
+|:------|-:|
+| Bug | [🔴 0](https://github.com/libgit2/libgit2/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-0%22) |
+| Feature | [✅ 0](https://github.com/libgit2/libgit2/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-1%22) |
+| Up for Grabs | [🔷 0](https://github.com/libgit2/libgit2/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-2%22) |
