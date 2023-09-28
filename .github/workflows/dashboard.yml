@@ -17,7 +17,7 @@ jobs:
       uses: ethomson/issue-dashboard@v1
       with:
         config: |
-          title: 'Dashboard'
+          title: 'Meadow Issues'
           output:
             format: markdown
             filename: 'dashboard.md'
@@ -28,23 +28,23 @@ jobs:
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue no:label'
           - title: 'Open Issues'
             widgets:
-            - type: 'table'
-              title: 'Open Issues'
-              headers:
-              - Type
-              - Count
-              elements:
-              - type: 'number'
-                issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-0"'
-              - type: 'number'
-                issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-1"'
-              - type: 'number'
-                issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2"'
+            - type: 'number'
+              title: 'Pri-0'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-0"'
+              color: 'red'
+            - type: 'number'
+              title: 'Pri-1'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-1"'
+              color: 'green'
+            - type: 'number'
+              title: 'Pri-2'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2"'
+              color: 'blue'
           - title: 'Meadow.OS'
             widgets:
             - type: 'number'
               title: 'Pri-0'
-              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-0" label:os'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-0"'
               color: 'red'
             - type: 'number'
               title: 'Pri-1'
