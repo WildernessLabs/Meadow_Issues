@@ -27,15 +27,15 @@ jobs:
             widgets:
             - type: 'number'
               title: 'Bug'
-              issue_query: 'repo:libgit2/libgit2 is:open is:issue label:"Bug - Pri-0"'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-0"'
               color: 'red'
             - type: 'number'
               title: 'Feature'
-              issue_query: 'repo:libgit2/libgit2 is:open is:issue label:"Bug - Pri-1"'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-1"'
               color: 'green'
             - type: 'number'
               title: 'Up for Grabs'
-              issue_query: 'repo:libgit2/libgit2 is:open is:issue label:"Bug - Pri-2"'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue label:"Bug - Pri-2"'
               color: 'blue'
         token: ${{ secrets.token }}
 
