@@ -26,7 +26,7 @@ jobs:
             widgets:
             - type: 'table'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue no:label'
-          - title: 'Open Issues'
+          - title: 'Open Bugs'
             widgets:
             - type: 'number'
               title: 'P0'
