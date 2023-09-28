@@ -1,10 +1,9 @@
 name: Build Dashboard
 
-# on:
-#   schedule:
-#   - cron: 0 * * * *
-
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: 0 * * * *
  
 jobs:
   build:
@@ -21,7 +20,7 @@ jobs:
           description: Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_Issues/issues/new/choose) related to Meadow. Thanks!
           output:
             format: markdown
-            filename: 'dashboard.md'
+            filename: 'README.md'
           sections:
           - title: 'Needs Triage'
             widgets:
