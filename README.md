@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [359](https://github.com/WildernessLabs/Meadow_Issues/issues/359) | [Project Lab button events don't fire after reading DateTime.Now](https://github.com/WildernessLabs/Meadow_Issues/issues/359) |
 ## Open Bugs
 
 | Query |  |
