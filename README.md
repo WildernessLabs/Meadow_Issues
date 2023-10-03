@@ -10,7 +10,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Query |  |
 |:------|-:|
-| P0 | [11](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-0%22) |
+| P0 | [12](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-0%22) |
 | P1 | [21](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-1%22) |
 | P2 | [17](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-2%22) |
 ## Meadow.OS
