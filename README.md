@@ -10,15 +10,15 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Query |  |
 |:------|-:|
-| P0 | [11](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-0%22) |
-| P1 | [22](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-1%22) |
+| P0 | [10](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-0%22) |
+| P1 | [23](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-1%22) |
 | P2 | [18](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-2%22) |
 ## Meadow.OS
 
 | Query |  |
 |:------|-:|
-| P0 | [10](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-0%22%20label%3Aos) |
-| P1 | [4](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-1%22%20label%3Aos) |
+| P0 | [9](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-0%22%20label%3Aos) |
+| P1 | [5](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-1%22%20label%3Aos) |
 | P2 | [5](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-2%22%20label%3Aos) |
 ## Meadow.Core
 
