@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [364](https://github.com/WildernessLabs/Meadow_Issues/issues/364) | [Bluetooth - Can't create a characteristic with a data type beyond the in-box string/int/bool types](https://github.com/WildernessLabs/Meadow_Issues/issues/364) |
 ## Open Bugs
 
 | Query |  |
