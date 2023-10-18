@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [369](https://github.com/WildernessLabs/Meadow_Issues/issues/369) | [Button Options - MicroLayout](https://github.com/WildernessLabs/Meadow_Issues/issues/369) |
 ## Open Bugs
 
 | Query |  |
