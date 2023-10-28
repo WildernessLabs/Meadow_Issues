@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [375](https://github.com/WildernessLabs/Meadow_Issues/issues/375) | [GPIO State Transitions on Power-up/Start-up/Reset](https://github.com/WildernessLabs/Meadow_Issues/issues/375) |
 ## Open Bugs
 
 | Query |  |
