@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [379](https://github.com/WildernessLabs/Meadow_Issues/issues/379) | [HttpClient memory leak when using HTTPS](https://github.com/WildernessLabs/Meadow_Issues/issues/379) |
 | [378](https://github.com/WildernessLabs/Meadow_Issues/issues/378) | [Frequent crashes after deploying app to a cloud provisioned board from Visual Studio 2022](https://github.com/WildernessLabs/Meadow_Issues/issues/378) |
 | [376](https://github.com/WildernessLabs/Meadow_Issues/issues/376) | [Don't deploy PDB and other files not needed to run Meadow application](https://github.com/WildernessLabs/Meadow_Issues/issues/376) |
 | [375](https://github.com/WildernessLabs/Meadow_Issues/issues/375) | [GPIO State Transitions on Power-up/Start-up/Reset](https://github.com/WildernessLabs/Meadow_Issues/issues/375) |
