@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [380](https://github.com/WildernessLabs/Meadow_Issues/issues/380) | [HttpClient errors: The descriptor is not a socket ](https://github.com/WildernessLabs/Meadow_Issues/issues/380) |
 | [379](https://github.com/WildernessLabs/Meadow_Issues/issues/379) | [HttpClient memory leak when using HTTPS](https://github.com/WildernessLabs/Meadow_Issues/issues/379) |
 | [375](https://github.com/WildernessLabs/Meadow_Issues/issues/375) | [GPIO State Transitions on Power-up/Start-up/Reset](https://github.com/WildernessLabs/Meadow_Issues/issues/375) |
 | [286](https://github.com/WildernessLabs/Meadow_Issues/issues/286) | [System.Net.Http.HttpClient.GetAsync() Memory Leak](https://github.com/WildernessLabs/Meadow_Issues/issues/286) |
