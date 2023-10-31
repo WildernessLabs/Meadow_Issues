@@ -15,9 +15,9 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Query |  |
 |:------|-:|
-| P0 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20p0%22) |
-| P1 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20p1%22) |
-| P2 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20p2%22) |
+| P0 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-0%22) |
+| P1 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-1%22) |
+| P2 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22Bug%20-%20Pri-2%22) |
 ## Meadow.OS
 
 | Query |  |
