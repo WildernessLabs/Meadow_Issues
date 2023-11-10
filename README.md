@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [385](https://github.com/WildernessLabs/Meadow_Issues/issues/385) | [Add Support for VL53L4CX](https://github.com/WildernessLabs/Meadow_Issues/issues/385) |
 ## Open Bugs
 
 | Query |  |
