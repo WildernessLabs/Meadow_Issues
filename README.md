@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [387](https://github.com/WildernessLabs/Meadow_Issues/issues/387) | [The default 'Project New' application (Blinky) leaks memory](https://github.com/WildernessLabs/Meadow_Issues/issues/387) |
 ## Open Bugs
 
 | Query |  |
