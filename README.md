@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [394](https://github.com/WildernessLabs/Meadow_Issues/issues/394) | [Meadow Cloud Health metrics](https://github.com/WildernessLabs/Meadow_Issues/issues/394) |
 ## Open Bugs
 
 | Query |  |
