@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [395](https://github.com/WildernessLabs/Meadow_Issues/issues/395) | [Possible redundant thread in SerialPortBase](https://github.com/WildernessLabs/Meadow_Issues/issues/395) |
 ## Open Bugs
 
 | Query |  |
