@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [406](https://github.com/WildernessLabs/Meadow_Issues/issues/406) | [COM Port Not Available After Sleep](https://github.com/WildernessLabs/Meadow_Issues/issues/406) |
 | [403](https://github.com/WildernessLabs/Meadow_Issues/issues/403) | [Add Method to Wait for Cloud Logs to sync](https://github.com/WildernessLabs/Meadow_Issues/issues/403) |
 | [401](https://github.com/WildernessLabs/Meadow_Issues/issues/401) | [Suspend Garbage Collection around time critical sections ](https://github.com/WildernessLabs/Meadow_Issues/issues/401) |
 | [395](https://github.com/WildernessLabs/Meadow_Issues/issues/395) | [Possible redundant thread in SerialPortBase](https://github.com/WildernessLabs/Meadow_Issues/issues/395) |
