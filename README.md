@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [410](https://github.com/WildernessLabs/Meadow_Issues/issues/410) | [Add SD-Card automount to Meadow after Nuttx v12 rebase](https://github.com/WildernessLabs/Meadow_Issues/issues/410) |
 ## Open Bugs
 
 | Query |  |
