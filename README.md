@@ -6,7 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [416](https://github.com/WildernessLabs/Meadow_Issues/issues/416) | [Work needed to keep syscalls and meadow-mappings.h organized and complete](https://github.com/WildernessLabs/Meadow_Issues/issues/416) |
+| [417](https://github.com/WildernessLabs/Meadow_Issues/issues/417) | [Linker Bug During Deployment](https://github.com/WildernessLabs/Meadow_Issues/issues/417) |
 | [410](https://github.com/WildernessLabs/Meadow_Issues/issues/410) | [Add SD-Card automount to Meadow after Nuttx v12 rebase](https://github.com/WildernessLabs/Meadow_Issues/issues/410) |
 ## Open Bugs
 
