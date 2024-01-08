@@ -8,7 +8,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 |---|---|
 | [422](https://github.com/WildernessLabs/Meadow_Issues/issues/422) | [Debugging on VS2022 doesn't deploy new binaries ](https://github.com/WildernessLabs/Meadow_Issues/issues/422) |
 | [419](https://github.com/WildernessLabs/Meadow_Issues/issues/419) | [Incorrect SSID/ Password shows "Operation Not Permitted"](https://github.com/WildernessLabs/Meadow_Issues/issues/419) |
-| [418](https://github.com/WildernessLabs/Meadow_Issues/issues/418) | [Meadow VS2022 Extension Does Not Show up with the expected name in VS Diagnostics](https://github.com/WildernessLabs/Meadow_Issues/issues/418) |
 | [417](https://github.com/WildernessLabs/Meadow_Issues/issues/417) | [Linker Bug During Deployment](https://github.com/WildernessLabs/Meadow_Issues/issues/417) |
 | [410](https://github.com/WildernessLabs/Meadow_Issues/issues/410) | [Add SD-Card automount to Meadow after Nuttx v12 rebase](https://github.com/WildernessLabs/Meadow_Issues/issues/410) |
 ## Open Bugs
