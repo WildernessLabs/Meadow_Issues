@@ -6,8 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [423](https://github.com/WildernessLabs/Meadow_Issues/issues/423) | [Meadow fails to wake up after about 10 sleep cycles](https://github.com/WildernessLabs/Meadow_Issues/issues/423) |
-| [422](https://github.com/WildernessLabs/Meadow_Issues/issues/422) | [Debugging on VS2022 doesn't deploy new binaries ](https://github.com/WildernessLabs/Meadow_Issues/issues/422) |
 | [417](https://github.com/WildernessLabs/Meadow_Issues/issues/417) | [Linker Bug During Deployment](https://github.com/WildernessLabs/Meadow_Issues/issues/417) |
 | [410](https://github.com/WildernessLabs/Meadow_Issues/issues/410) | [Add SD-Card automount to Meadow after Nuttx v12 rebase](https://github.com/WildernessLabs/Meadow_Issues/issues/410) |
 | [424](https://github.com/WildernessLabs/Meadow_Issues/issues/424) | [Device.CreateSerialPort does not set Parity correctly](https://github.com/WildernessLabs/Meadow_Issues/issues/424) |
