@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [429](https://github.com/WildernessLabs/Meadow_Issues/issues/429) | [Update GNSS sample app](https://github.com/WildernessLabs/Meadow_Issues/issues/429) |
 | [428](https://github.com/WildernessLabs/Meadow_Issues/issues/428) | [VS2022 doesn't automatically detect a connected Meadow device](https://github.com/WildernessLabs/Meadow_Issues/issues/428) |
 | [426](https://github.com/WildernessLabs/Meadow_Issues/issues/426) | [VS2022 extension doesn't always respect the port setting](https://github.com/WildernessLabs/Meadow_Issues/issues/426) |
 | [425](https://github.com/WildernessLabs/Meadow_Issues/issues/425) | [Hardware Reset does not work, need power cycle](https://github.com/WildernessLabs/Meadow_Issues/issues/425) |
