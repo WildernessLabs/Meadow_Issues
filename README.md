@@ -6,7 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [439](https://github.com/WildernessLabs/Meadow_Issues/issues/439) | [Sockets TcpListener and TcpClient - ESP32 "disappears" - Can't even ping](https://github.com/WildernessLabs/Meadow_Issues/issues/439) |
+| [439](https://github.com/WildernessLabs/Meadow_Issues/issues/439) | [Sockets TcpListener and TcpClient - ESP32 "disappears" - No ping](https://github.com/WildernessLabs/Meadow_Issues/issues/439) |
 | [437](https://github.com/WildernessLabs/Meadow_Issues/issues/437) | [FT232H driver - I2C Exception when GPIO Set High](https://github.com/WildernessLabs/Meadow_Issues/issues/437) |
 | [429](https://github.com/WildernessLabs/Meadow_Issues/issues/429) | [Update GNSS sample app](https://github.com/WildernessLabs/Meadow_Issues/issues/429) |
 | [428](https://github.com/WildernessLabs/Meadow_Issues/issues/428) | [VS2022 doesn't automatically detect a connected Meadow device](https://github.com/WildernessLabs/Meadow_Issues/issues/428) |
