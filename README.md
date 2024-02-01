@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [440](https://github.com/WildernessLabs/Meadow_Issues/issues/440) | [Documentation issue BME688 sensor](https://github.com/WildernessLabs/Meadow_Issues/issues/440) |
 | [439](https://github.com/WildernessLabs/Meadow_Issues/issues/439) | [Sockets TcpListener and TcpClient - ESP32 "disappears" - No ping](https://github.com/WildernessLabs/Meadow_Issues/issues/439) |
 | [437](https://github.com/WildernessLabs/Meadow_Issues/issues/437) | [FT232H driver - I2C Exception when GPIO Set High](https://github.com/WildernessLabs/Meadow_Issues/issues/437) |
 | [429](https://github.com/WildernessLabs/Meadow_Issues/issues/429) | [Update GNSS sample app](https://github.com/WildernessLabs/Meadow_Issues/issues/429) |
