@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [443](https://github.com/WildernessLabs/Meadow_Issues/issues/443) | [CLI V2 Timeout writing firmware](https://github.com/WildernessLabs/Meadow_Issues/issues/443) |
 | [440](https://github.com/WildernessLabs/Meadow_Issues/issues/440) | [Documentation issue BME688 sensor](https://github.com/WildernessLabs/Meadow_Issues/issues/440) |
 | [439](https://github.com/WildernessLabs/Meadow_Issues/issues/439) | [Sockets TcpListener and TcpClient - ESP32 "disappears" - No ping](https://github.com/WildernessLabs/Meadow_Issues/issues/439) |
 | [437](https://github.com/WildernessLabs/Meadow_Issues/issues/437) | [FT232H driver - I2C Exception when GPIO Set High](https://github.com/WildernessLabs/Meadow_Issues/issues/437) |
@@ -15,7 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [425](https://github.com/WildernessLabs/Meadow_Issues/issues/425) | [Hardware Reset does not work, need power cycle](https://github.com/WildernessLabs/Meadow_Issues/issues/425) |
 | [417](https://github.com/WildernessLabs/Meadow_Issues/issues/417) | [Linker Bug During Deployment](https://github.com/WildernessLabs/Meadow_Issues/issues/417) |
 | [410](https://github.com/WildernessLabs/Meadow_Issues/issues/410) | [Add SD-Card automount to Meadow after Nuttx v12 rebase](https://github.com/WildernessLabs/Meadow_Issues/issues/410) |
-| [424](https://github.com/WildernessLabs/Meadow_Issues/issues/424) | [Device.CreateSerialPort does not set Parity correctly](https://github.com/WildernessLabs/Meadow_Issues/issues/424) |
 ## Open Bugs
 
 | Query |  |
