@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [445](https://github.com/WildernessLabs/Meadow_Issues/issues/445) | [CLI V2 Please sort the firmware list](https://github.com/WildernessLabs/Meadow_Issues/issues/445) |
 | [444](https://github.com/WildernessLabs/Meadow_Issues/issues/444) | [CLI V2 does not show application file deployment](https://github.com/WildernessLabs/Meadow_Issues/issues/444) |
 | [443](https://github.com/WildernessLabs/Meadow_Issues/issues/443) | [CLI V2 Timeout writing firmware](https://github.com/WildernessLabs/Meadow_Issues/issues/443) |
 | [440](https://github.com/WildernessLabs/Meadow_Issues/issues/440) | [Documentation issue BME688 sensor](https://github.com/WildernessLabs/Meadow_Issues/issues/440) |
@@ -15,7 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [428](https://github.com/WildernessLabs/Meadow_Issues/issues/428) | [VS2022 doesn't automatically detect a connected Meadow device](https://github.com/WildernessLabs/Meadow_Issues/issues/428) |
 | [426](https://github.com/WildernessLabs/Meadow_Issues/issues/426) | [VS2022 extension doesn't always respect the port setting](https://github.com/WildernessLabs/Meadow_Issues/issues/426) |
 | [425](https://github.com/WildernessLabs/Meadow_Issues/issues/425) | [Hardware Reset does not work, need power cycle](https://github.com/WildernessLabs/Meadow_Issues/issues/425) |
-| [417](https://github.com/WildernessLabs/Meadow_Issues/issues/417) | [Linker Bug During Deployment](https://github.com/WildernessLabs/Meadow_Issues/issues/417) |
 ## Open Bugs
 
 | Query |  |
