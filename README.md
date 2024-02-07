@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [446](https://github.com/WildernessLabs/Meadow_Issues/issues/446) | [ProjectLab3 has no input after deploy until reset](https://github.com/WildernessLabs/Meadow_Issues/issues/446) |
 ## Open Bugs
 
 | Query |  |
