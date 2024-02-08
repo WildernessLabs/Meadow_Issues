@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [450](https://github.com/WildernessLabs/Meadow_Issues/issues/450) | [Rotation Bug on Ssd1680 ePaper Display](https://github.com/WildernessLabs/Meadow_Issues/issues/450) |
 | [448](https://github.com/WildernessLabs/Meadow_Issues/issues/448) | [CLI V2 `meadow firmware write runtime`](https://github.com/WildernessLabs/Meadow_Issues/issues/448) |
 | [447](https://github.com/WildernessLabs/Meadow_Issues/issues/447) | [CLI V2 `meadow firmware write` does not allow a specific file to be written to the board](https://github.com/WildernessLabs/Meadow_Issues/issues/447) |
 | [446](https://github.com/WildernessLabs/Meadow_Issues/issues/446) | [ProjectLab3 has no input after deploy until reset](https://github.com/WildernessLabs/Meadow_Issues/issues/446) |
