@@ -6,6 +6,9 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [454](https://github.com/WildernessLabs/Meadow_Issues/issues/454) | [MCP2515 driver for CAN ](https://github.com/WildernessLabs/Meadow_Issues/issues/454) |
+| [453](https://github.com/WildernessLabs/Meadow_Issues/issues/453) | [Enable touch control for the  Display Module SPI Serial ILI9341  ](https://github.com/WildernessLabs/Meadow_Issues/issues/453) |
+| [452](https://github.com/WildernessLabs/Meadow_Issues/issues/452) | [Seamless Network Switching: From WiFi to Cellular and vice versa](https://github.com/WildernessLabs/Meadow_Issues/issues/452) |
 | [451](https://github.com/WildernessLabs/Meadow_Issues/issues/451) | [PixelBufferBase should error on height or width of zero](https://github.com/WildernessLabs/Meadow_Issues/issues/451) |
 | [450](https://github.com/WildernessLabs/Meadow_Issues/issues/450) | [Rotation Bug on Ssd1680 ePaper Display](https://github.com/WildernessLabs/Meadow_Issues/issues/450) |
 | [448](https://github.com/WildernessLabs/Meadow_Issues/issues/448) | [CLI V2 `meadow firmware write runtime`](https://github.com/WildernessLabs/Meadow_Issues/issues/448) |
