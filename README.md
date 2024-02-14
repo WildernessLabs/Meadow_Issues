@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [456](https://github.com/WildernessLabs/Meadow_Issues/issues/456) | [CLI v2 delete all doesn't recursively delete files in folders](https://github.com/WildernessLabs/Meadow_Issues/issues/456) |
 | [454](https://github.com/WildernessLabs/Meadow_Issues/issues/454) | [MCP2515 driver for CAN ](https://github.com/WildernessLabs/Meadow_Issues/issues/454) |
 | [453](https://github.com/WildernessLabs/Meadow_Issues/issues/453) | [Enable touch control for the  Display Module SPI Serial ILI9341  ](https://github.com/WildernessLabs/Meadow_Issues/issues/453) |
 | [452](https://github.com/WildernessLabs/Meadow_Issues/issues/452) | [Seamless Network Switching: From WiFi to Cellular and vice versa](https://github.com/WildernessLabs/Meadow_Issues/issues/452) |
