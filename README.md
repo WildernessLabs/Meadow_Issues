@@ -6,6 +6,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [470](https://github.com/WildernessLabs/Meadow_Issues/issues/470) | [meadow firmware write accepts invalid commands (or missing files)](https://github.com/WildernessLabs/Meadow_Issues/issues/470) |
+| [469](https://github.com/WildernessLabs/Meadow_Issues/issues/469) | [CLI V2 `meadow file list update` times out](https://github.com/WildernessLabs/Meadow_Issues/issues/469) |
 | [468](https://github.com/WildernessLabs/Meadow_Issues/issues/468) | [Cannot use `meadow firmware write` ](https://github.com/WildernessLabs/Meadow_Issues/issues/468) |
 | [467](https://github.com/WildernessLabs/Meadow_Issues/issues/467) | [CLIv2: Can only upload one file at a time?](https://github.com/WildernessLabs/Meadow_Issues/issues/467) |
 | [466](https://github.com/WildernessLabs/Meadow_Issues/issues/466) | [CLI V2 Please tidy up the output from `meadow file list -v`](https://github.com/WildernessLabs/Meadow_Issues/issues/466) |
@@ -14,8 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [456](https://github.com/WildernessLabs/Meadow_Issues/issues/456) | [CLI v2 delete all doesn't recursively delete files in folders](https://github.com/WildernessLabs/Meadow_Issues/issues/456) |
 | [454](https://github.com/WildernessLabs/Meadow_Issues/issues/454) | [MCP2515 driver for CAN ](https://github.com/WildernessLabs/Meadow_Issues/issues/454) |
 | [453](https://github.com/WildernessLabs/Meadow_Issues/issues/453) | [Enable touch control for the  Display Module SPI Serial ILI9341  ](https://github.com/WildernessLabs/Meadow_Issues/issues/453) |
-| [452](https://github.com/WildernessLabs/Meadow_Issues/issues/452) | [Seamless Network Switching: From WiFi to Cellular and vice versa](https://github.com/WildernessLabs/Meadow_Issues/issues/452) |
-| [451](https://github.com/WildernessLabs/Meadow_Issues/issues/451) | [PixelBufferBase should error on height or width of zero](https://github.com/WildernessLabs/Meadow_Issues/issues/451) |
 ## Open Bugs
 
 | Query |  |
