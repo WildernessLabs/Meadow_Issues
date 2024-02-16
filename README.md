@@ -6,6 +6,9 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [467](https://github.com/WildernessLabs/Meadow_Issues/issues/467) | [CLIv2: Can only upload one file at a time?](https://github.com/WildernessLabs/Meadow_Issues/issues/467) |
+| [466](https://github.com/WildernessLabs/Meadow_Issues/issues/466) | [CLI V2 Please tidy up the output from `meadow file list -v`](https://github.com/WildernessLabs/Meadow_Issues/issues/466) |
+| [465](https://github.com/WildernessLabs/Meadow_Issues/issues/465) | [CLI V2 `meadow runtime enable` locks the serial port](https://github.com/WildernessLabs/Meadow_Issues/issues/465) |
 | [463](https://github.com/WildernessLabs/Meadow_Issues/issues/463) | [Boken link](https://github.com/WildernessLabs/Meadow_Issues/issues/463) |
 | [456](https://github.com/WildernessLabs/Meadow_Issues/issues/456) | [CLI v2 delete all doesn't recursively delete files in folders](https://github.com/WildernessLabs/Meadow_Issues/issues/456) |
 | [454](https://github.com/WildernessLabs/Meadow_Issues/issues/454) | [MCP2515 driver for CAN ](https://github.com/WildernessLabs/Meadow_Issues/issues/454) |
@@ -13,9 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [452](https://github.com/WildernessLabs/Meadow_Issues/issues/452) | [Seamless Network Switching: From WiFi to Cellular and vice versa](https://github.com/WildernessLabs/Meadow_Issues/issues/452) |
 | [451](https://github.com/WildernessLabs/Meadow_Issues/issues/451) | [PixelBufferBase should error on height or width of zero](https://github.com/WildernessLabs/Meadow_Issues/issues/451) |
 | [450](https://github.com/WildernessLabs/Meadow_Issues/issues/450) | [Rotation Bug on Ssd1680 ePaper Display](https://github.com/WildernessLabs/Meadow_Issues/issues/450) |
-| [448](https://github.com/WildernessLabs/Meadow_Issues/issues/448) | [CLI V2 `meadow firmware write runtime`](https://github.com/WildernessLabs/Meadow_Issues/issues/448) |
-| [447](https://github.com/WildernessLabs/Meadow_Issues/issues/447) | [CLI V2 `meadow firmware write` does not allow a specific file to be written to the board](https://github.com/WildernessLabs/Meadow_Issues/issues/447) |
-| [446](https://github.com/WildernessLabs/Meadow_Issues/issues/446) | [ProjectLab3 has no input after deploy until reset](https://github.com/WildernessLabs/Meadow_Issues/issues/446) |
 ## Open Bugs
 
 | Query |  |
