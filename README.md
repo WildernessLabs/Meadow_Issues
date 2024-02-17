@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [472](https://github.com/WildernessLabs/Meadow_Issues/issues/472) | [CLI V2 Firmware directory moves between V1 and V2](https://github.com/WildernessLabs/Meadow_Issues/issues/472) |
 | [471](https://github.com/WildernessLabs/Meadow_Issues/issues/471) | [CLI V2 `meadow firmware write esp -v 1.8.1.7` generates an exception](https://github.com/WildernessLabs/Meadow_Issues/issues/471) |
 | [470](https://github.com/WildernessLabs/Meadow_Issues/issues/470) | [meadow firmware write accepts invalid commands (or missing files)](https://github.com/WildernessLabs/Meadow_Issues/issues/470) |
 | [469](https://github.com/WildernessLabs/Meadow_Issues/issues/469) | [CLI V2 `meadow file list update` times out](https://github.com/WildernessLabs/Meadow_Issues/issues/469) |
@@ -15,7 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [465](https://github.com/WildernessLabs/Meadow_Issues/issues/465) | [CLI V2 `meadow runtime enable` locks the serial port](https://github.com/WildernessLabs/Meadow_Issues/issues/465) |
 | [463](https://github.com/WildernessLabs/Meadow_Issues/issues/463) | [Boken link](https://github.com/WildernessLabs/Meadow_Issues/issues/463) |
 | [456](https://github.com/WildernessLabs/Meadow_Issues/issues/456) | [CLI v2 delete all doesn't recursively delete files in folders](https://github.com/WildernessLabs/Meadow_Issues/issues/456) |
-| [454](https://github.com/WildernessLabs/Meadow_Issues/issues/454) | [MCP2515 driver for CAN ](https://github.com/WildernessLabs/Meadow_Issues/issues/454) |
 ## Open Bugs
 
 | Query |  |
