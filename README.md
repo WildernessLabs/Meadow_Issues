@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [476](https://github.com/WildernessLabs/Meadow_Issues/issues/476) | [Use the GNSS circuit of the BG95-M3 when Cell is disabled](https://github.com/WildernessLabs/Meadow_Issues/issues/476) |
 | [474](https://github.com/WildernessLabs/Meadow_Issues/issues/474) | [Can't use XmlSerializer](https://github.com/WildernessLabs/Meadow_Issues/issues/474) |
 | [473](https://github.com/WildernessLabs/Meadow_Issues/issues/473) | [Can't delete files in the Data folder via the CLI](https://github.com/WildernessLabs/Meadow_Issues/issues/473) |
 | [472](https://github.com/WildernessLabs/Meadow_Issues/issues/472) | [CLI V2 Firmware directory moves between V1 and V2](https://github.com/WildernessLabs/Meadow_Issues/issues/472) |
@@ -15,7 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [463](https://github.com/WildernessLabs/Meadow_Issues/issues/463) | [Broken link](https://github.com/WildernessLabs/Meadow_Issues/issues/463) |
 | [454](https://github.com/WildernessLabs/Meadow_Issues/issues/454) | [MCP2515 driver for CAN ](https://github.com/WildernessLabs/Meadow_Issues/issues/454) |
 | [453](https://github.com/WildernessLabs/Meadow_Issues/issues/453) | [Enable touch control for the  Display Module SPI Serial ILI9341  ](https://github.com/WildernessLabs/Meadow_Issues/issues/453) |
-| [452](https://github.com/WildernessLabs/Meadow_Issues/issues/452) | [Seamless Network Switching: From WiFi to Cellular and vice versa](https://github.com/WildernessLabs/Meadow_Issues/issues/452) |
 ## Open Bugs
 
 | Query |  |
