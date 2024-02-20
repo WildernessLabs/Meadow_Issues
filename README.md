@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [477](https://github.com/WildernessLabs/Meadow_Issues/issues/477) | [AIR QUALITY 4 CLICK PID: MIKROE-2896 - Request for Project Lab 3 Driver ](https://github.com/WildernessLabs/Meadow_Issues/issues/477) |
 | [476](https://github.com/WildernessLabs/Meadow_Issues/issues/476) | [Use the GNSS circuit of the BG95-M3 when Cell is disabled](https://github.com/WildernessLabs/Meadow_Issues/issues/476) |
 | [474](https://github.com/WildernessLabs/Meadow_Issues/issues/474) | [Can't use XmlSerializer](https://github.com/WildernessLabs/Meadow_Issues/issues/474) |
 | [473](https://github.com/WildernessLabs/Meadow_Issues/issues/473) | [Can't delete files in the Data folder via the CLI](https://github.com/WildernessLabs/Meadow_Issues/issues/473) |
@@ -15,7 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [465](https://github.com/WildernessLabs/Meadow_Issues/issues/465) | [CLI V2 `meadow runtime enable` locks the serial port](https://github.com/WildernessLabs/Meadow_Issues/issues/465) |
 | [463](https://github.com/WildernessLabs/Meadow_Issues/issues/463) | [Broken link](https://github.com/WildernessLabs/Meadow_Issues/issues/463) |
 | [454](https://github.com/WildernessLabs/Meadow_Issues/issues/454) | [MCP2515 driver for CAN ](https://github.com/WildernessLabs/Meadow_Issues/issues/454) |
-| [453](https://github.com/WildernessLabs/Meadow_Issues/issues/453) | [Enable touch control for the  Display Module SPI Serial ILI9341  ](https://github.com/WildernessLabs/Meadow_Issues/issues/453) |
 ## Open Bugs
 
 | Query |  |
