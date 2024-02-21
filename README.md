@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [483](https://github.com/WildernessLabs/Meadow_Issues/issues/483) | [CLI V2 Need to add a specify Meadow.OS parameter when creating mpak files for OTA updates](https://github.com/WildernessLabs/Meadow_Issues/issues/483) |
 | [481](https://github.com/WildernessLabs/Meadow_Issues/issues/481) | [CLI V2 Deleting the default firmware looks to set the default to the oldest version](https://github.com/WildernessLabs/Meadow_Issues/issues/481) |
 | [480](https://github.com/WildernessLabs/Meadow_Issues/issues/480) | [CLI V2 `meadow firmware write -v 1.9.0.0` timeout (using update file NOT DFU)](https://github.com/WildernessLabs/Meadow_Issues/issues/480) |
 | [479](https://github.com/WildernessLabs/Meadow_Issues/issues/479) | [CLI V2 `meadow runtime enable` sometimes shows system as Disabled](https://github.com/WildernessLabs/Meadow_Issues/issues/479) |
