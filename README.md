@@ -6,13 +6,11 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [487](https://github.com/WildernessLabs/Meadow_Issues/issues/487) | [CLI V2 `meadow firmware list` Sort order looks incorrect](https://github.com/WildernessLabs/Meadow_Issues/issues/487) |
 | [480](https://github.com/WildernessLabs/Meadow_Issues/issues/480) | [CLI V2 `meadow firmware write -v 1.9.0.0` timeout (using update file NOT DFU)](https://github.com/WildernessLabs/Meadow_Issues/issues/480) |
 | [479](https://github.com/WildernessLabs/Meadow_Issues/issues/479) | [CLI V2 `meadow runtime enable` sometimes shows system as Disabled](https://github.com/WildernessLabs/Meadow_Issues/issues/479) |
 | [468](https://github.com/WildernessLabs/Meadow_Issues/issues/468) | [CLI V2 Cannot use `meadow firmware write` ](https://github.com/WildernessLabs/Meadow_Issues/issues/468) |
 | [453](https://github.com/WildernessLabs/Meadow_Issues/issues/453) | [Enable touch control for the  Display Module SPI Serial ILI9341  ](https://github.com/WildernessLabs/Meadow_Issues/issues/453) |
 | [452](https://github.com/WildernessLabs/Meadow_Issues/issues/452) | [Seamless Network Switching: From WiFi to Cellular and vice versa](https://github.com/WildernessLabs/Meadow_Issues/issues/452) |
-| [451](https://github.com/WildernessLabs/Meadow_Issues/issues/451) | [PixelBufferBase should error on height or width of zero](https://github.com/WildernessLabs/Meadow_Issues/issues/451) |
 | [446](https://github.com/WildernessLabs/Meadow_Issues/issues/446) | [ProjectLab3 has no input after deploy until reset](https://github.com/WildernessLabs/Meadow_Issues/issues/446) |
 ## Open Bugs
 
