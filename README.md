@@ -6,7 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [481](https://github.com/WildernessLabs/Meadow_Issues/issues/481) | [CLI V2 Deleting the default firmware looks to set the default to the oldest version](https://github.com/WildernessLabs/Meadow_Issues/issues/481) |
+| [487](https://github.com/WildernessLabs/Meadow_Issues/issues/487) | [CLI V2 `meadow firmware list` Sort order looks incorrect](https://github.com/WildernessLabs/Meadow_Issues/issues/487) |
 | [480](https://github.com/WildernessLabs/Meadow_Issues/issues/480) | [CLI V2 `meadow firmware write -v 1.9.0.0` timeout (using update file NOT DFU)](https://github.com/WildernessLabs/Meadow_Issues/issues/480) |
 | [479](https://github.com/WildernessLabs/Meadow_Issues/issues/479) | [CLI V2 `meadow runtime enable` sometimes shows system as Disabled](https://github.com/WildernessLabs/Meadow_Issues/issues/479) |
 | [468](https://github.com/WildernessLabs/Meadow_Issues/issues/468) | [CLI V2 Cannot use `meadow firmware write` ](https://github.com/WildernessLabs/Meadow_Issues/issues/468) |
