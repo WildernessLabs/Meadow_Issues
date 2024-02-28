@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [492](https://github.com/WildernessLabs/Meadow_Issues/issues/492) | [Update FT232 driver to match driver standards](https://github.com/WildernessLabs/Meadow_Issues/issues/492) |
 | [489](https://github.com/WildernessLabs/Meadow_Issues/issues/489) | [Using VS2022 Debugger causes memory allocation failures ](https://github.com/WildernessLabs/Meadow_Issues/issues/489) |
 | [480](https://github.com/WildernessLabs/Meadow_Issues/issues/480) | [CLI V2 `meadow firmware write -v 1.9.0.0` timeout (using update file NOT DFU)](https://github.com/WildernessLabs/Meadow_Issues/issues/480) |
 | [479](https://github.com/WildernessLabs/Meadow_Issues/issues/479) | [CLI V2 `meadow runtime enable` sometimes shows system as Disabled](https://github.com/WildernessLabs/Meadow_Issues/issues/479) |
