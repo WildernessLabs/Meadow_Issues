@@ -7,7 +7,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Issue | Title |
 |---|---|
 | [506](https://github.com/WildernessLabs/Meadow_Issues/issues/506) | [Index out of range exceptions in Esp32Coprocessor.Encoder.cs on RaiseWiFiDisconnected](https://github.com/WildernessLabs/Meadow_Issues/issues/506) |
-| [507](https://github.com/WildernessLabs/Meadow_Issues/issues/507) | [Memory leak in MeadowCloudService](https://github.com/WildernessLabs/Meadow_Issues/issues/507) |
 | [508](https://github.com/WildernessLabs/Meadow_Issues/issues/508) | [Mismatched comment-to-enum-value spelling](https://github.com/WildernessLabs/Meadow_Issues/issues/508) |
 | [511](https://github.com/WildernessLabs/Meadow_Issues/issues/511) | [Manage ESP32 lifecycle](https://github.com/WildernessLabs/Meadow_Issues/issues/511) |
 | [515](https://github.com/WildernessLabs/Meadow_Issues/issues/515) | [Investigate string characteristics](https://github.com/WildernessLabs/Meadow_Issues/issues/515) |
