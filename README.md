@@ -6,6 +6,9 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [501](https://github.com/WildernessLabs/Meadow_Issues/issues/501) | [CLI V2 `meadow firmware write -v 1.9.1.6` is not moving on to flashing the RT or ESP](https://github.com/WildernessLabs/Meadow_Issues/issues/501) |
+| [500](https://github.com/WildernessLabs/Meadow_Issues/issues/500) | [CLI V2 ](https://github.com/WildernessLabs/Meadow_Issues/issues/500) |
+| [499](https://github.com/WildernessLabs/Meadow_Issues/issues/499) | [CLI V2 `meadow runtime disable` times out](https://github.com/WildernessLabs/Meadow_Issues/issues/499) |
 | [496](https://github.com/WildernessLabs/Meadow_Issues/issues/496) | [CLI V2 Attempts to access invalid port](https://github.com/WildernessLabs/Meadow_Issues/issues/496) |
 | [493](https://github.com/WildernessLabs/Meadow_Issues/issues/493) | [Adding SignalR Client NuGet makes deployment fail](https://github.com/WildernessLabs/Meadow_Issues/issues/493) |
 | [492](https://github.com/WildernessLabs/Meadow_Issues/issues/492) | [Update FT232 driver to match driver standards](https://github.com/WildernessLabs/Meadow_Issues/issues/492) |
@@ -13,9 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [480](https://github.com/WildernessLabs/Meadow_Issues/issues/480) | [CLI V2 `meadow firmware write -v 1.9.0.0` timeout (using update file NOT DFU)](https://github.com/WildernessLabs/Meadow_Issues/issues/480) |
 | [479](https://github.com/WildernessLabs/Meadow_Issues/issues/479) | [CLI V2 `meadow runtime enable` sometimes shows system as Disabled](https://github.com/WildernessLabs/Meadow_Issues/issues/479) |
 | [468](https://github.com/WildernessLabs/Meadow_Issues/issues/468) | [CLI V2 Cannot use `meadow firmware write` ](https://github.com/WildernessLabs/Meadow_Issues/issues/468) |
-| [453](https://github.com/WildernessLabs/Meadow_Issues/issues/453) | [Enable touch control for the  Display Module SPI Serial ILI9341  ](https://github.com/WildernessLabs/Meadow_Issues/issues/453) |
-| [452](https://github.com/WildernessLabs/Meadow_Issues/issues/452) | [Seamless Network Switching: From WiFi to Cellular and vice versa](https://github.com/WildernessLabs/Meadow_Issues/issues/452) |
-| [446](https://github.com/WildernessLabs/Meadow_Issues/issues/446) | [ProjectLab3 has no input after deploy until reset](https://github.com/WildernessLabs/Meadow_Issues/issues/446) |
 ## Open Bugs
 
 | Query |  |
