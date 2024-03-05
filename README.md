@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [502](https://github.com/WildernessLabs/Meadow_Issues/issues/502) | [CLI V2 Flash failure resets route to device](https://github.com/WildernessLabs/Meadow_Issues/issues/502) |
 | [501](https://github.com/WildernessLabs/Meadow_Issues/issues/501) | [CLI V2 `meadow firmware write -v 1.9.1.6` is not moving on to flashing the RT or ESP](https://github.com/WildernessLabs/Meadow_Issues/issues/501) |
 | [500](https://github.com/WildernessLabs/Meadow_Issues/issues/500) | [CLI V2 ](https://github.com/WildernessLabs/Meadow_Issues/issues/500) |
 | [499](https://github.com/WildernessLabs/Meadow_Issues/issues/499) | [CLI V2 `meadow runtime disable` times out](https://github.com/WildernessLabs/Meadow_Issues/issues/499) |
@@ -15,7 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [489](https://github.com/WildernessLabs/Meadow_Issues/issues/489) | [Using VS2022 Debugger causes memory allocation failures ](https://github.com/WildernessLabs/Meadow_Issues/issues/489) |
 | [480](https://github.com/WildernessLabs/Meadow_Issues/issues/480) | [CLI V2 `meadow firmware write -v 1.9.0.0` timeout (using update file NOT DFU)](https://github.com/WildernessLabs/Meadow_Issues/issues/480) |
 | [479](https://github.com/WildernessLabs/Meadow_Issues/issues/479) | [CLI V2 `meadow runtime enable` sometimes shows system as Disabled](https://github.com/WildernessLabs/Meadow_Issues/issues/479) |
-| [468](https://github.com/WildernessLabs/Meadow_Issues/issues/468) | [CLI V2 Cannot use `meadow firmware write` ](https://github.com/WildernessLabs/Meadow_Issues/issues/468) |
 ## Open Bugs
 
 | Query |  |
