@@ -6,13 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [522](https://github.com/WildernessLabs/Meadow_Issues/issues/522) | [Login in link on the community forums gives a 404 error.](https://github.com/WildernessLabs/Meadow_Issues/issues/522) |
-| [521](https://github.com/WildernessLabs/Meadow_Issues/issues/521) | [Driver Request: ADT7410 High Accuracy I2C Temperature Sensor](https://github.com/WildernessLabs/Meadow_Issues/issues/521) |
-| [519](https://github.com/WildernessLabs/Meadow_Issues/issues/519) | [Documentation - OS links on page result in 404 errors](https://github.com/WildernessLabs/Meadow_Issues/issues/519) |
-| [508](https://github.com/WildernessLabs/Meadow_Issues/issues/508) | [Mismatched comment-to-enum-value spelling](https://github.com/WildernessLabs/Meadow_Issues/issues/508) |
-| [511](https://github.com/WildernessLabs/Meadow_Issues/issues/511) | [Manage ESP32 lifecycle](https://github.com/WildernessLabs/Meadow_Issues/issues/511) |
-| [515](https://github.com/WildernessLabs/Meadow_Issues/issues/515) | [Investigate string characteristics](https://github.com/WildernessLabs/Meadow_Issues/issues/515) |
-| [514](https://github.com/WildernessLabs/Meadow_Issues/issues/514) | [BLE diagnostics console writeline calls](https://github.com/WildernessLabs/Meadow_Issues/issues/514) |
 ## Open Bugs
 
 | Query |  |
