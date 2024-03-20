@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [533](https://github.com/WildernessLabs/Meadow_Issues/issues/533) | [Meadow unreponsive after meadow file delete all.](https://github.com/WildernessLabs/Meadow_Issues/issues/533) |
 | [534](https://github.com/WildernessLabs/Meadow_Issues/issues/534) | [USB Port change each device reset on Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/534) |
 | [535](https://github.com/WildernessLabs/Meadow_Issues/issues/535) | [Command output hard to read on macOS light mode](https://github.com/WildernessLabs/Meadow_Issues/issues/535) |
 ## Open Bugs
