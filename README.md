@@ -6,11 +6,11 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [545](https://github.com/WildernessLabs/Meadow_Issues/issues/545) | [CLI returns zero when an operation has failed](https://github.com/WildernessLabs/Meadow_Issues/issues/545) |
 | [544](https://github.com/WildernessLabs/Meadow_Issues/issues/544) | [No Meadow status bar anymore?](https://github.com/WildernessLabs/Meadow_Issues/issues/544) |
 | [534](https://github.com/WildernessLabs/Meadow_Issues/issues/534) | [USB Port change each device reset on Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/534) |
 | [535](https://github.com/WildernessLabs/Meadow_Issues/issues/535) | [Command output hard to read on macOS light mode](https://github.com/WildernessLabs/Meadow_Issues/issues/535) |
 | [547](https://github.com/WildernessLabs/Meadow_Issues/issues/547) | [-m option doesn't work](https://github.com/WildernessLabs/Meadow_Issues/issues/547) |
+| [549](https://github.com/WildernessLabs/Meadow_Issues/issues/549) | [Update Grove LEDButton to PWMLed when interrupt group issue is fixed](https://github.com/WildernessLabs/Meadow_Issues/issues/549) |
 | [546](https://github.com/WildernessLabs/Meadow_Issues/issues/546) | [Update deploy logic to include ContentFiles in project sub folders](https://github.com/WildernessLabs/Meadow_Issues/issues/546) |
 ## Open Bugs
 
