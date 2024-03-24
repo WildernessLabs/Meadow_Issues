@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [550](https://github.com/WildernessLabs/Meadow_Issues/issues/550) | [Task faulted in Meadow.Foundation WinForms display sample ](https://github.com/WildernessLabs/Meadow_Issues/issues/550) |
 | [544](https://github.com/WildernessLabs/Meadow_Issues/issues/544) | [No Meadow status bar anymore?](https://github.com/WildernessLabs/Meadow_Issues/issues/544) |
 | [534](https://github.com/WildernessLabs/Meadow_Issues/issues/534) | [USB Port change each device reset on Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/534) |
 | [535](https://github.com/WildernessLabs/Meadow_Issues/issues/535) | [Command output hard to read on macOS light mode](https://github.com/WildernessLabs/Meadow_Issues/issues/535) |
