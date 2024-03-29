@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [565](https://github.com/WildernessLabs/Meadow_Issues/issues/565) | [CLI provision gen command contains error](https://github.com/WildernessLabs/Meadow_Issues/issues/565) |
 | [544](https://github.com/WildernessLabs/Meadow_Issues/issues/544) | [No Meadow status bar anymore?](https://github.com/WildernessLabs/Meadow_Issues/issues/544) |
 | [534](https://github.com/WildernessLabs/Meadow_Issues/issues/534) | [USB Port change each device reset on Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/534) |
 | [535](https://github.com/WildernessLabs/Meadow_Issues/issues/535) | [Command output hard to read on macOS light mode](https://github.com/WildernessLabs/Meadow_Issues/issues/535) |
@@ -16,6 +15,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [556](https://github.com/WildernessLabs/Meadow_Issues/issues/556) | [Inconsistency in Drivers](https://github.com/WildernessLabs/Meadow_Issues/issues/556) |
 | [557](https://github.com/WildernessLabs/Meadow_Issues/issues/557) | [Cannot call Read on SCD41 until StartUpdating is called](https://github.com/WildernessLabs/Meadow_Issues/issues/557) |
 | [558](https://github.com/WildernessLabs/Meadow_Issues/issues/558) | [Device.PlatformOS.Sleep allows DateTime and TimeSpan entries that are too limited and DateTime values that have already past](https://github.com/WildernessLabs/Meadow_Issues/issues/558) |
+| [562](https://github.com/WildernessLabs/Meadow_Issues/issues/562) | [Update Tca9548a to use II2cCommunication pattern](https://github.com/WildernessLabs/Meadow_Issues/issues/562) |
 ## Open Bugs
 
 | Query |  |
