@@ -6,10 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [555](https://github.com/WildernessLabs/Meadow_Issues/issues/555) | [Motors Should Implement Common Interface](https://github.com/WildernessLabs/Meadow_Issues/issues/555) |
-| [561](https://github.com/WildernessLabs/Meadow_Issues/issues/561) | [Driver request: Tcs3472x](https://github.com/WildernessLabs/Meadow_Issues/issues/561) |
-| [549](https://github.com/WildernessLabs/Meadow_Issues/issues/549) | [Update Grove LEDButton to PWMLed when interrupt group issue is fixed](https://github.com/WildernessLabs/Meadow_Issues/issues/549) |
-| [546](https://github.com/WildernessLabs/Meadow_Issues/issues/546) | [Update deploy logic to include ContentFiles in project sub folders](https://github.com/WildernessLabs/Meadow_Issues/issues/546) |
 ## Open Bugs
 
 | Query |  |
