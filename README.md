@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [574](https://github.com/WildernessLabs/Meadow_Issues/issues/574) | [Meadow Project Lab template needs a bit of cleanup](https://github.com/WildernessLabs/Meadow_Issues/issues/574) |
 | [573](https://github.com/WildernessLabs/Meadow_Issues/issues/573) | [Meadow Project Lab template needs a bit of cleanup](https://github.com/WildernessLabs/Meadow_Issues/issues/573) |
 | [572](https://github.com/WildernessLabs/Meadow_Issues/issues/572) | [Meadow templates aren't auto-installing on VS2022 on Windows](https://github.com/WildernessLabs/Meadow_Issues/issues/572) |
 | [571](https://github.com/WildernessLabs/Meadow_Issues/issues/571) | [Meadow SDK nuget needs a README](https://github.com/WildernessLabs/Meadow_Issues/issues/571) |
