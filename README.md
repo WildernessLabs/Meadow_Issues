@@ -8,7 +8,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 |---|---|
 | [582](https://github.com/WildernessLabs/Meadow_Issues/issues/582) | [Working/updated VB.NET Samples](https://github.com/WildernessLabs/Meadow_Issues/issues/582) |
 | [577](https://github.com/WildernessLabs/Meadow_Issues/issues/577) | [sending mailmessage via smtpclient. normalization errors](https://github.com/WildernessLabs/Meadow_Issues/issues/577) |
-| [573](https://github.com/WildernessLabs/Meadow_Issues/issues/573) | [Meadow Project Lab template needs a bit of cleanup](https://github.com/WildernessLabs/Meadow_Issues/issues/573) |
 | [572](https://github.com/WildernessLabs/Meadow_Issues/issues/572) | [Meadow templates aren't auto-installing on VS2022 on Windows](https://github.com/WildernessLabs/Meadow_Issues/issues/572) |
 | [571](https://github.com/WildernessLabs/Meadow_Issues/issues/571) | [Meadow SDK nuget needs a README](https://github.com/WildernessLabs/Meadow_Issues/issues/571) |
 | [569](https://github.com/WildernessLabs/Meadow_Issues/issues/569) | [Add Application OtA updates for Meadow.Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/569) |
