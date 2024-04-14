@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [595](https://github.com/WildernessLabs/Meadow_Issues/issues/595) | [VS2022 Crashes with Trying to Debug a Meadow Project](https://github.com/WildernessLabs/Meadow_Issues/issues/595) |
 | [582](https://github.com/WildernessLabs/Meadow_Issues/issues/582) | [Working/updated VB.NET Samples](https://github.com/WildernessLabs/Meadow_Issues/issues/582) |
 | [577](https://github.com/WildernessLabs/Meadow_Issues/issues/577) | [sending mailmessage via smtpclient. normalization errors](https://github.com/WildernessLabs/Meadow_Issues/issues/577) |
 | [572](https://github.com/WildernessLabs/Meadow_Issues/issues/572) | [Meadow templates aren't auto-installing on VS2022 on Windows](https://github.com/WildernessLabs/Meadow_Issues/issues/572) |
