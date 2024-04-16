@@ -6,6 +6,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [598](https://github.com/WildernessLabs/Meadow_Issues/issues/598) | [package create does not include yaml files](https://github.com/WildernessLabs/Meadow_Issues/issues/598) |
+| [597](https://github.com/WildernessLabs/Meadow_Issues/issues/597) | [MicroJson - Struggling to Deserialize date time in a certain format](https://github.com/WildernessLabs/Meadow_Issues/issues/597) |
 ## Open Bugs
 
 | Query |  |
