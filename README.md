@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [599](https://github.com/WildernessLabs/Meadow_Issues/issues/599) | [Bmx280 Exception on SPI, zero value on I2C](https://github.com/WildernessLabs/Meadow_Issues/issues/599) |
 ## Open Bugs
 
 | Query |  |
