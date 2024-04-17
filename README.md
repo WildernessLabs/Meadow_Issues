@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [598](https://github.com/WildernessLabs/Meadow_Issues/issues/598) | [package create does not include yaml files](https://github.com/WildernessLabs/Meadow_Issues/issues/598) |
 ## Open Bugs
 
 | Query |  |
