@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [609](https://github.com/WildernessLabs/Meadow_Issues/issues/609) | [meadow cpu temp analytics](https://github.com/WildernessLabs/Meadow_Issues/issues/609) |
 | [600](https://github.com/WildernessLabs/Meadow_Issues/issues/600) | [Default firmware isn't being set on Ubuntu 20.04](https://github.com/WildernessLabs/Meadow_Issues/issues/600) |
 | [599](https://github.com/WildernessLabs/Meadow_Issues/issues/599) | [Bmx280 Exception on SPI, zero value on I2C](https://github.com/WildernessLabs/Meadow_Issues/issues/599) |
 | [607](https://github.com/WildernessLabs/Meadow_Issues/issues/607) | [ Issue with ClientWebSocket connection](https://github.com/WildernessLabs/Meadow_Issues/issues/607) |
