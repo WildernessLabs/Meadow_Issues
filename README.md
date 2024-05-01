@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [616](https://github.com/WildernessLabs/Meadow_Issues/issues/616) | [Meadow SDK nuget needs readme and license](https://github.com/WildernessLabs/Meadow_Issues/issues/616) |
 ## Open Bugs
 
 | Query |  |
