@@ -8,7 +8,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 |---|---|
 | [627](https://github.com/WildernessLabs/Meadow_Issues/issues/627) | [Add Battery Info to Accelerators like Clima](https://github.com/WildernessLabs/Meadow_Issues/issues/627) |
 | [619](https://github.com/WildernessLabs/Meadow_Issues/issues/619) | [Setting breakpoint causing runtime exception](https://github.com/WildernessLabs/Meadow_Issues/issues/619) |
-| [616](https://github.com/WildernessLabs/Meadow_Issues/issues/616) | [Meadow SDK nuget needs readme and license](https://github.com/WildernessLabs/Meadow_Issues/issues/616) |
 ## Open Bugs
 
 | Query |  |
