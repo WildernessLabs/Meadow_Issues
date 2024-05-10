@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [630](https://github.com/WildernessLabs/Meadow_Issues/issues/630) | [v2.0.39 - Error deploying application (startIndex)](https://github.com/WildernessLabs/Meadow_Issues/issues/630) |
 | [627](https://github.com/WildernessLabs/Meadow_Issues/issues/627) | [Add Battery Info to Accelerators like Clima](https://github.com/WildernessLabs/Meadow_Issues/issues/627) |
 | [619](https://github.com/WildernessLabs/Meadow_Issues/issues/619) | [Setting breakpoint causing runtime exception](https://github.com/WildernessLabs/Meadow_Issues/issues/619) |
 ## Open Bugs
