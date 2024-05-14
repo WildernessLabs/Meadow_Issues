@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [634](https://github.com/WildernessLabs/Meadow_Issues/issues/634) | [Meadow.Foundation.Graphics.MicroLayout.Button long click event](https://github.com/WildernessLabs/Meadow_Issues/issues/634) |
 | [627](https://github.com/WildernessLabs/Meadow_Issues/issues/627) | [Add Battery Info to Accelerators like Clima](https://github.com/WildernessLabs/Meadow_Issues/issues/627) |
 | [619](https://github.com/WildernessLabs/Meadow_Issues/issues/619) | [Setting breakpoint causing runtime exception](https://github.com/WildernessLabs/Meadow_Issues/issues/619) |
 ## Open Bugs
