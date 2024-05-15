@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [635](https://github.com/WildernessLabs/Meadow_Issues/issues/635) | [Feather does not restart after unhandled exception](https://github.com/WildernessLabs/Meadow_Issues/issues/635) |
 ## Open Bugs
 
 | Query |  |
