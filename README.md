@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [638](https://github.com/WildernessLabs/Meadow_Issues/issues/638) | [CLI 2.0.41 does not trim apps](https://github.com/WildernessLabs/Meadow_Issues/issues/638) |
 | [635](https://github.com/WildernessLabs/Meadow_Issues/issues/635) | [Feather does not restart after unhandled exception](https://github.com/WildernessLabs/Meadow_Issues/issues/635) |
 ## Open Bugs
 
