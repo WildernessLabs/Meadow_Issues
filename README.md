@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [641](https://github.com/WildernessLabs/Meadow_Issues/issues/641) | [F7 WiFi network API does not disconnect properly](https://github.com/WildernessLabs/Meadow_Issues/issues/641) |
 | [640](https://github.com/WildernessLabs/Meadow_Issues/issues/640) | [Simplify how Meadow Project Templates are installed and created via the CLI](https://github.com/WildernessLabs/Meadow_Issues/issues/640) |
 | [639](https://github.com/WildernessLabs/Meadow_Issues/issues/639) | [CLI 2.0.41 fails with startIndex cannot be larger than length of string. (Parameter 'startIndex')](https://github.com/WildernessLabs/Meadow_Issues/issues/639) |
 | [635](https://github.com/WildernessLabs/Meadow_Issues/issues/635) | [Feather does not restart after unhandled exception](https://github.com/WildernessLabs/Meadow_Issues/issues/635) |
