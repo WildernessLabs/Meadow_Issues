@@ -8,7 +8,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 |---|---|
 | [641](https://github.com/WildernessLabs/Meadow_Issues/issues/641) | [F7 WiFi network API does not disconnect properly](https://github.com/WildernessLabs/Meadow_Issues/issues/641) |
 | [640](https://github.com/WildernessLabs/Meadow_Issues/issues/640) | [Simplify how Meadow Project Templates are installed and created via the CLI](https://github.com/WildernessLabs/Meadow_Issues/issues/640) |
-| [639](https://github.com/WildernessLabs/Meadow_Issues/issues/639) | [CLI 2.0.41 fails with startIndex cannot be larger than length of string. (Parameter 'startIndex')](https://github.com/WildernessLabs/Meadow_Issues/issues/639) |
 | [635](https://github.com/WildernessLabs/Meadow_Issues/issues/635) | [Feather does not restart after unhandled exception](https://github.com/WildernessLabs/Meadow_Issues/issues/635) |
 | [665](https://github.com/WildernessLabs/Meadow_Issues/issues/665) | [Add specific classes for ID-3LA, ID-12LA, ID-20LA](https://github.com/WildernessLabs/Meadow_Issues/issues/665) |
 | [664](https://github.com/WildernessLabs/Meadow_Issues/issues/664) | [MicroLayout Theme gets applied after constructor values](https://github.com/WildernessLabs/Meadow_Issues/issues/664) |
@@ -16,6 +15,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [661](https://github.com/WildernessLabs/Meadow_Issues/issues/661) | [MicroLayout - DisplayLabel should clip text if its outside of width and heigth values](https://github.com/WildernessLabs/Meadow_Issues/issues/661) |
 | [660](https://github.com/WildernessLabs/Meadow_Issues/issues/660) | [Driver Request: Create driver for IowaScaledEngineering relay board](https://github.com/WildernessLabs/Meadow_Issues/issues/660) |
 | [658](https://github.com/WildernessLabs/Meadow_Issues/issues/658) | [CP2112 IO Expander Driver](https://github.com/WildernessLabs/Meadow_Issues/issues/658) |
+| [656](https://github.com/WildernessLabs/Meadow_Issues/issues/656) | [Review and cleanup APDS9960 driver](https://github.com/WildernessLabs/Meadow_Issues/issues/656) |
 ## Open Bugs
 
 | Query |  |
