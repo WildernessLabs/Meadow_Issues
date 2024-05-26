@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [676](https://github.com/WildernessLabs/Meadow_Issues/issues/676) | [CLI V2.0.43 - BCL fallback does not appear to be working](https://github.com/WildernessLabs/Meadow_Issues/issues/676) |
 | [674](https://github.com/WildernessLabs/Meadow_Issues/issues/674) | [meadow cloud analytics pages](https://github.com/WildernessLabs/Meadow_Issues/issues/674) |
 | [641](https://github.com/WildernessLabs/Meadow_Issues/issues/641) | [F7 WiFi network API does not disconnect properly](https://github.com/WildernessLabs/Meadow_Issues/issues/641) |
 | [640](https://github.com/WildernessLabs/Meadow_Issues/issues/640) | [Simplify how Meadow Project Templates are installed and created via the CLI](https://github.com/WildernessLabs/Meadow_Issues/issues/640) |
@@ -16,6 +15,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [662](https://github.com/WildernessLabs/Meadow_Issues/issues/662) | [Driver Request: Add Support for VL53L4CX](https://github.com/WildernessLabs/Meadow_Issues/issues/662) |
 | [661](https://github.com/WildernessLabs/Meadow_Issues/issues/661) | [MicroLayout - DisplayLabel should clip text if its outside of width and heigth values](https://github.com/WildernessLabs/Meadow_Issues/issues/661) |
 | [660](https://github.com/WildernessLabs/Meadow_Issues/issues/660) | [Driver Request: Create driver for IowaScaledEngineering relay board](https://github.com/WildernessLabs/Meadow_Issues/issues/660) |
+| [658](https://github.com/WildernessLabs/Meadow_Issues/issues/658) | [CP2112 IO Expander Driver](https://github.com/WildernessLabs/Meadow_Issues/issues/658) |
 ## Open Bugs
 
 | Query |  |
