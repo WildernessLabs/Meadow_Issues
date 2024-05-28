@@ -6,6 +6,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [681](https://github.com/WildernessLabs/Meadow_Issues/issues/681) | [Desktop - Meadow Cloud Healthcheck error](https://github.com/WildernessLabs/Meadow_Issues/issues/681) |
+| [680](https://github.com/WildernessLabs/Meadow_Issues/issues/680) | [Windows - FT232H driver - cannot open I2C bus ](https://github.com/WildernessLabs/Meadow_Issues/issues/680) |
 ## Open Bugs
 
 | Query |  |
