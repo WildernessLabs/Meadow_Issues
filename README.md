@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [678](https://github.com/WildernessLabs/Meadow_Issues/issues/678) | [MCP doesn't work when triggered inside `CommandService.Subscribe()`](https://github.com/WildernessLabs/Meadow_Issues/issues/678) |
 | [677](https://github.com/WildernessLabs/Meadow_Issues/issues/677) | [VS2022 stops detecting Meadow devices in the Meadow device selector](https://github.com/WildernessLabs/Meadow_Issues/issues/677) |
 | [674](https://github.com/WildernessLabs/Meadow_Issues/issues/674) | [meadow cloud analytics pages](https://github.com/WildernessLabs/Meadow_Issues/issues/674) |
 | [641](https://github.com/WildernessLabs/Meadow_Issues/issues/641) | [F7 WiFi network API does not disconnect properly](https://github.com/WildernessLabs/Meadow_Issues/issues/641) |
@@ -15,7 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [664](https://github.com/WildernessLabs/Meadow_Issues/issues/664) | [MicroLayout Theme gets applied after constructor values](https://github.com/WildernessLabs/Meadow_Issues/issues/664) |
 | [662](https://github.com/WildernessLabs/Meadow_Issues/issues/662) | [Driver Request: Add Support for VL53L4CX](https://github.com/WildernessLabs/Meadow_Issues/issues/662) |
 | [661](https://github.com/WildernessLabs/Meadow_Issues/issues/661) | [MicroLayout - DisplayLabel should clip text if its outside of width and heigth values](https://github.com/WildernessLabs/Meadow_Issues/issues/661) |
-| [660](https://github.com/WildernessLabs/Meadow_Issues/issues/660) | [Driver Request: Create driver for IowaScaledEngineering relay board](https://github.com/WildernessLabs/Meadow_Issues/issues/660) |
 ## Open Bugs
 
 | Query |  |
