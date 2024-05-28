@@ -6,28 +6,28 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [678](https://github.com/WildernessLabs/Meadow_Issues/issues/678) | [MCP doesn't work when triggered inside `CommandService.Subscribe()`](https://github.com/WildernessLabs/Meadow_Issues/issues/678) |
-| [677](https://github.com/WildernessLabs/Meadow_Issues/issues/677) | [VS2022 stops detecting Meadow devices in the Meadow device selector](https://github.com/WildernessLabs/Meadow_Issues/issues/677) |
-| [674](https://github.com/WildernessLabs/Meadow_Issues/issues/674) | [meadow cloud analytics pages](https://github.com/WildernessLabs/Meadow_Issues/issues/674) |
-| [641](https://github.com/WildernessLabs/Meadow_Issues/issues/641) | [F7 WiFi network API does not disconnect properly](https://github.com/WildernessLabs/Meadow_Issues/issues/641) |
 | [640](https://github.com/WildernessLabs/Meadow_Issues/issues/640) | [Simplify how Meadow Project Templates are installed and created via the CLI](https://github.com/WildernessLabs/Meadow_Issues/issues/640) |
-| [635](https://github.com/WildernessLabs/Meadow_Issues/issues/635) | [Feather does not restart after unhandled exception](https://github.com/WildernessLabs/Meadow_Issues/issues/635) |
-| [665](https://github.com/WildernessLabs/Meadow_Issues/issues/665) | [Add specific classes for ID-3LA, ID-12LA, ID-20LA](https://github.com/WildernessLabs/Meadow_Issues/issues/665) |
-| [664](https://github.com/WildernessLabs/Meadow_Issues/issues/664) | [MicroLayout Theme gets applied after constructor values](https://github.com/WildernessLabs/Meadow_Issues/issues/664) |
-| [662](https://github.com/WildernessLabs/Meadow_Issues/issues/662) | [Driver Request: Add Support for VL53L4CX](https://github.com/WildernessLabs/Meadow_Issues/issues/662) |
-| [661](https://github.com/WildernessLabs/Meadow_Issues/issues/661) | [MicroLayout - DisplayLabel should clip text if its outside of width and heigth values](https://github.com/WildernessLabs/Meadow_Issues/issues/661) |
+| [660](https://github.com/WildernessLabs/Meadow_Issues/issues/660) | [Driver Request: Create driver for IowaScaledEngineering relay board](https://github.com/WildernessLabs/Meadow_Issues/issues/660) |
+| [658](https://github.com/WildernessLabs/Meadow_Issues/issues/658) | [CP2112 IO Expander Driver](https://github.com/WildernessLabs/Meadow_Issues/issues/658) |
+| [656](https://github.com/WildernessLabs/Meadow_Issues/issues/656) | [Review and cleanup APDS9960 driver](https://github.com/WildernessLabs/Meadow_Issues/issues/656) |
+| [655](https://github.com/WildernessLabs/Meadow_Issues/issues/655) | [Add proximity to SI1145](https://github.com/WildernessLabs/Meadow_Issues/issues/655) |
+| [654](https://github.com/WildernessLabs/Meadow_Issues/issues/654) | [Review BH1745 - returning IsValid bool](https://github.com/WildernessLabs/Meadow_Issues/issues/654) |
+| [649](https://github.com/WildernessLabs/Meadow_Issues/issues/649) | [Meadow.Foundation.Graphics add method LoadFromStream](https://github.com/WildernessLabs/Meadow_Issues/issues/649) |
+| [650](https://github.com/WildernessLabs/Meadow_Issues/issues/650) | [Driver request: Adalogger FeatherWing - RTC + SD Add-on](https://github.com/WildernessLabs/Meadow_Issues/issues/650) |
+| [652](https://github.com/WildernessLabs/Meadow_Issues/issues/652) | [Review and finish Arducam Mini driver](https://github.com/WildernessLabs/Meadow_Issues/issues/652) |
+| [647](https://github.com/WildernessLabs/Meadow_Issues/issues/647) | [Driver request: NEO-M9](https://github.com/WildernessLabs/Meadow_Issues/issues/647) |
 ## Open Bugs
 
 | Query |  |
 |:------|-:|
-| P0 | [21](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
-| P1 | [36](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
+| P0 | [23](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
+| P1 | [39](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
 | P2 | [23](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
 |:------|-:|
-| P0 | [11](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Aos) |
+| P0 | [12](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Aos) |
 | P1 | [7](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Aos) |
 | P2 | [4](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2%20label%3Aos) |
 ## Meadow.Core
@@ -42,7 +42,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Query |  |
 |:------|-:|
 | P0 | [3](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Afoundation) |
-| P1 | [2](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Afoundation) |
+| P1 | [3](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Afoundation) |
 | P2 | [2](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2%20label%3Afoundation) |
 ## Meadow.Cloud
 
