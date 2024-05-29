@@ -8,13 +8,12 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 |---|---|
 | [686](https://github.com/WildernessLabs/Meadow_Issues/issues/686) | [Wrong link on Windows getting started page](https://github.com/WildernessLabs/Meadow_Issues/issues/686) |
 | [682](https://github.com/WildernessLabs/Meadow_Issues/issues/682) | [RSA decrypt failure with Meadow.Desktop for Windows](https://github.com/WildernessLabs/Meadow_Issues/issues/682) |
-| [681](https://github.com/WildernessLabs/Meadow_Issues/issues/681) | [Desktop - Meadow Cloud Healthcheck error](https://github.com/WildernessLabs/Meadow_Issues/issues/681) |
 | [680](https://github.com/WildernessLabs/Meadow_Issues/issues/680) | [Windows Desktop - FT232H driver - cannot open I2C bus ](https://github.com/WildernessLabs/Meadow_Issues/issues/680) |
 ## Open Bugs
 
 | Query |  |
 |:------|-:|
-| P0 | [14](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
+| P0 | [15](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
 | P1 | [38](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
 | P2 | [25](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
@@ -28,7 +27,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Query |  |
 |:------|-:|
-| P0 | [3](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Acore) |
+| P0 | [4](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Acore) |
 | P1 | [2](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Acore) |
 | P2 | [2](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2%20label%3Acore) |
 ## Meadow.Foundation
