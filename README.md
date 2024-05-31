@@ -10,6 +10,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [686](https://github.com/WildernessLabs/Meadow_Issues/issues/686) | [Wrong link on Windows getting started page](https://github.com/WildernessLabs/Meadow_Issues/issues/686) |
 | [682](https://github.com/WildernessLabs/Meadow_Issues/issues/682) | [RSA decrypt failure with Meadow.Desktop for Windows](https://github.com/WildernessLabs/Meadow_Issues/issues/682) |
 | [680](https://github.com/WildernessLabs/Meadow_Issues/issues/680) | [Windows Desktop - FT232H driver - cannot open I2C bus ](https://github.com/WildernessLabs/Meadow_Issues/issues/680) |
+| [691](https://github.com/WildernessLabs/Meadow_Issues/issues/691) | [F7FeatherV2 stops responding when already powered via 5V then unplug USB](https://github.com/WildernessLabs/Meadow_Issues/issues/691) |
+| [692](https://github.com/WildernessLabs/Meadow_Issues/issues/692) | [Complete NotImplemented items in Meadow.Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/692) |
 ## Open Bugs
 
 | Query |  |
