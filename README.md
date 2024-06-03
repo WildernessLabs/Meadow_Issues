@@ -7,7 +7,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Issue | Title |
 |---|---|
 | [688](https://github.com/WildernessLabs/Meadow_Issues/issues/688) | [Mirid - Support VB.NET and F# project files for Ref Switching](https://github.com/WildernessLabs/Meadow_Issues/issues/688) |
-| [686](https://github.com/WildernessLabs/Meadow_Issues/issues/686) | [Wrong link on Windows getting started page](https://github.com/WildernessLabs/Meadow_Issues/issues/686) |
 | [682](https://github.com/WildernessLabs/Meadow_Issues/issues/682) | [RSA decrypt failure with Meadow.Desktop for Windows](https://github.com/WildernessLabs/Meadow_Issues/issues/682) |
 | [680](https://github.com/WildernessLabs/Meadow_Issues/issues/680) | [Windows Desktop - FT232H driver - cannot open I2C bus ](https://github.com/WildernessLabs/Meadow_Issues/issues/680) |
 | [691](https://github.com/WildernessLabs/Meadow_Issues/issues/691) | [F7FeatherV2 stops responding when already powered via 5V then unplug USB](https://github.com/WildernessLabs/Meadow_Issues/issues/691) |
