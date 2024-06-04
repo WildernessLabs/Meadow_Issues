@@ -6,6 +6,9 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [697](https://github.com/WildernessLabs/Meadow_Issues/issues/697) | [VS2022 extension v2 doesn't auto-select Meadow when only one device is connected](https://github.com/WildernessLabs/Meadow_Issues/issues/697) |
+| [696](https://github.com/WildernessLabs/Meadow_Issues/issues/696) | [VS2022 v2 hides selected Meadow device during deploy](https://github.com/WildernessLabs/Meadow_Issues/issues/696) |
+| [695](https://github.com/WildernessLabs/Meadow_Issues/issues/695) | [VS2022 extension v2 no longer shows file deploy progress bar](https://github.com/WildernessLabs/Meadow_Issues/issues/695) |
 | [688](https://github.com/WildernessLabs/Meadow_Issues/issues/688) | [Mirid - Support VB.NET and F# project files for Ref Switching](https://github.com/WildernessLabs/Meadow_Issues/issues/688) |
 | [682](https://github.com/WildernessLabs/Meadow_Issues/issues/682) | [RSA decrypt failure with Meadow.Desktop for Windows](https://github.com/WildernessLabs/Meadow_Issues/issues/682) |
 | [680](https://github.com/WildernessLabs/Meadow_Issues/issues/680) | [Windows Desktop - FT232H driver - cannot open I2C bus ](https://github.com/WildernessLabs/Meadow_Issues/issues/680) |
