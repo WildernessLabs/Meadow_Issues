@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [698](https://github.com/WildernessLabs/Meadow_Issues/issues/698) | [[v2] Meadow.CLI  - meadow app trim not finding firmware packages...](https://github.com/WildernessLabs/Meadow_Issues/issues/698) |
 | [697](https://github.com/WildernessLabs/Meadow_Issues/issues/697) | [VS2022 extension v2 doesn't auto-select Meadow when only one device is connected](https://github.com/WildernessLabs/Meadow_Issues/issues/697) |
 | [696](https://github.com/WildernessLabs/Meadow_Issues/issues/696) | [VS2022 v2 hides selected Meadow device during deploy](https://github.com/WildernessLabs/Meadow_Issues/issues/696) |
 | [695](https://github.com/WildernessLabs/Meadow_Issues/issues/695) | [VS2022 extension v2 no longer shows file deploy progress bar](https://github.com/WildernessLabs/Meadow_Issues/issues/695) |
