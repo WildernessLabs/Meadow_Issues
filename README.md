@@ -6,6 +6,9 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [706](https://github.com/WildernessLabs/Meadow_Issues/issues/706) | [Meadow.Foundation.Core missing readme for nuget package](https://github.com/WildernessLabs/Meadow_Issues/issues/706) |
+| [705](https://github.com/WildernessLabs/Meadow_Issues/issues/705) | [Meadow Core missing readmes for nuget packages](https://github.com/WildernessLabs/Meadow_Issues/issues/705) |
+| [704](https://github.com/WildernessLabs/Meadow_Issues/issues/704) | [Meadow Contracts missing readme for nuget package](https://github.com/WildernessLabs/Meadow_Issues/issues/704) |
 | [697](https://github.com/WildernessLabs/Meadow_Issues/issues/697) | [VS2022 extension v2 doesn't auto-select Meadow when only one device is connected](https://github.com/WildernessLabs/Meadow_Issues/issues/697) |
 | [696](https://github.com/WildernessLabs/Meadow_Issues/issues/696) | [VS2022 v2 hides selected Meadow device during deploy](https://github.com/WildernessLabs/Meadow_Issues/issues/696) |
 | [688](https://github.com/WildernessLabs/Meadow_Issues/issues/688) | [Mirid - Support VB.NET and F# project files for Ref Switching](https://github.com/WildernessLabs/Meadow_Issues/issues/688) |
