@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [708](https://github.com/WildernessLabs/Meadow_Issues/issues/708) | [CLI 2.0.48 - Writing file to board show incorrect file name](https://github.com/WildernessLabs/Meadow_Issues/issues/708) |
 | [705](https://github.com/WildernessLabs/Meadow_Issues/issues/705) | [Meadow Core missing readmes for nuget packages](https://github.com/WildernessLabs/Meadow_Issues/issues/705) |
 | [704](https://github.com/WildernessLabs/Meadow_Issues/issues/704) | [Meadow Contracts missing readme for nuget package](https://github.com/WildernessLabs/Meadow_Issues/issues/704) |
 | [697](https://github.com/WildernessLabs/Meadow_Issues/issues/697) | [VS2022 extension v2 doesn't auto-select Meadow when only one device is connected](https://github.com/WildernessLabs/Meadow_Issues/issues/697) |
