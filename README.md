@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [717](https://github.com/WildernessLabs/Meadow_Issues/issues/717) | [CLI v2.x doesn't check for new versions ](https://github.com/WildernessLabs/Meadow_Issues/issues/717) |
 | [716](https://github.com/WildernessLabs/Meadow_Issues/issues/716) | [Meadow.Desktop - Display shows up even tho its not being used](https://github.com/WildernessLabs/Meadow_Issues/issues/716) |
 ## Open Bugs
 
