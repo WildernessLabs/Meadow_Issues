@@ -28,7 +28,7 @@ If applicable, add screenshots to help explain your problem.
  - Meadow extension for IDE version: [e.g., VS 2022 Tools for Meadow v0.19.9]
 
 **Meadow (please complete the following information as best as you can):**
-Most of these vaues can be found by running `meadow device info` using the [Meadow CLI](http://developer.wildernesslabs.co/Meadow/Meadow_Basics/Meadow_CLI/).
+Most of these values can be found by running `meadow device info` using the [Meadow CLI](http://developer.wildernesslabs.co/Meadow/Meadow_Basics/Meadow_CLI/).
  - Meadow hardware version: [e.g. F7v2, CCMv2]
  - Meadow OS version: [e.g., v0.6.7.19]
  - If they are different, please provide these versions as well.
