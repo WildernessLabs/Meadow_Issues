@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [723](https://github.com/WildernessLabs/Meadow_Issues/issues/723) | [ESP32 error with latest template(s?): `InvalidConfigurationFile`](https://github.com/WildernessLabs/Meadow_Issues/issues/723) |
 | [722](https://github.com/WildernessLabs/Meadow_Issues/issues/722) | [Possible assumed dependency on WildernessLabs.Meadow.Template NuGet package](https://github.com/WildernessLabs/Meadow_Issues/issues/722) |
 | [719](https://github.com/WildernessLabs/Meadow_Issues/issues/719) | [Ensure NTP client in the OS is only started once.](https://github.com/WildernessLabs/Meadow_Issues/issues/719) |
 | [718](https://github.com/WildernessLabs/Meadow_Issues/issues/718) | [Version 1.12.2 Crashes When Loading Settings From Resolver.Services](https://github.com/WildernessLabs/Meadow_Issues/issues/718) |
