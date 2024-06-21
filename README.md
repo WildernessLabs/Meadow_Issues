@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [727](https://github.com/WildernessLabs/Meadow_Issues/issues/727) | [Meadow.Desktop - ILI9341 display doesnt work on FT232H](https://github.com/WildernessLabs/Meadow_Issues/issues/727) |
 | [726](https://github.com/WildernessLabs/Meadow_Issues/issues/726) | [Meadow.Cloud - Sort Devices by Name ](https://github.com/WildernessLabs/Meadow_Issues/issues/726) |
 | [725](https://github.com/WildernessLabs/Meadow_Issues/issues/725) | [IWiredNetworkAdapter: NetworkConnected and NetworkDisconnected events not firing](https://github.com/WildernessLabs/Meadow_Issues/issues/725) |
 | [724](https://github.com/WildernessLabs/Meadow_Issues/issues/724) | [ESP32 NetworkDeadlock error in app not using network](https://github.com/WildernessLabs/Meadow_Issues/issues/724) |
