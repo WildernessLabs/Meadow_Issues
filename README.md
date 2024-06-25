@@ -6,23 +6,15 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [733](https://github.com/WildernessLabs/Meadow_Issues/issues/733) | [meadow dfu install not currently supported on Mac and Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/733) |
-| [732](https://github.com/WildernessLabs/Meadow_Issues/issues/732) | [Meadow.Desktop - Template cant run on Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/732) |
-| [728](https://github.com/WildernessLabs/Meadow_Issues/issues/728) | [Cultivar stops responding to Meadow.Cloud Commands after some time](https://github.com/WildernessLabs/Meadow_Issues/issues/728) |
-| [727](https://github.com/WildernessLabs/Meadow_Issues/issues/727) | [Meadow.Desktop - ILI9341 display doesnt work on FT232H](https://github.com/WildernessLabs/Meadow_Issues/issues/727) |
-| [726](https://github.com/WildernessLabs/Meadow_Issues/issues/726) | [Meadow.Cloud - Sort Devices by Name ](https://github.com/WildernessLabs/Meadow_Issues/issues/726) |
-| [725](https://github.com/WildernessLabs/Meadow_Issues/issues/725) | [IWiredNetworkAdapter: NetworkConnected and NetworkDisconnected events not firing](https://github.com/WildernessLabs/Meadow_Issues/issues/725) |
-| [724](https://github.com/WildernessLabs/Meadow_Issues/issues/724) | [ESP32 NetworkDeadlock error in app not using network](https://github.com/WildernessLabs/Meadow_Issues/issues/724) |
-| [723](https://github.com/WildernessLabs/Meadow_Issues/issues/723) | [ESP32 error with latest template(s?): `InvalidConfigurationFile`](https://github.com/WildernessLabs/Meadow_Issues/issues/723) |
-| [722](https://github.com/WildernessLabs/Meadow_Issues/issues/722) | [Possible assumed dependency on WildernessLabs.Meadow.Template NuGet package](https://github.com/WildernessLabs/Meadow_Issues/issues/722) |
-| [719](https://github.com/WildernessLabs/Meadow_Issues/issues/719) | [Ensure NTP client in the OS is only started once.](https://github.com/WildernessLabs/Meadow_Issues/issues/719) |
+| [718](https://github.com/WildernessLabs/Meadow_Issues/issues/718) | [Version 1.12.2 Crashes When Loading Settings From Resolver.Services](https://github.com/WildernessLabs/Meadow_Issues/issues/718) |
+| [716](https://github.com/WildernessLabs/Meadow_Issues/issues/716) | [Meadow.Desktop - Display shows up even tho its not being used](https://github.com/WildernessLabs/Meadow_Issues/issues/716) |
 ## Open Bugs
 
 | Query |  |
 |:------|-:|
-| P0 | [13](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
-| P1 | [47](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [23](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P0 | [15](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
+| P1 | [50](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
+| P2 | [24](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
