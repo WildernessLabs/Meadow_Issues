@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [732](https://github.com/WildernessLabs/Meadow_Issues/issues/732) | [Meadow.Desktop - Template cant run on Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/732) |
 | [728](https://github.com/WildernessLabs/Meadow_Issues/issues/728) | [Cultivar stops responding to Meadow.Cloud Commands after some time](https://github.com/WildernessLabs/Meadow_Issues/issues/728) |
 | [727](https://github.com/WildernessLabs/Meadow_Issues/issues/727) | [Meadow.Desktop - ILI9341 display doesnt work on FT232H](https://github.com/WildernessLabs/Meadow_Issues/issues/727) |
 | [726](https://github.com/WildernessLabs/Meadow_Issues/issues/726) | [Meadow.Cloud - Sort Devices by Name ](https://github.com/WildernessLabs/Meadow_Issues/issues/726) |
@@ -15,7 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [722](https://github.com/WildernessLabs/Meadow_Issues/issues/722) | [Possible assumed dependency on WildernessLabs.Meadow.Template NuGet package](https://github.com/WildernessLabs/Meadow_Issues/issues/722) |
 | [719](https://github.com/WildernessLabs/Meadow_Issues/issues/719) | [Ensure NTP client in the OS is only started once.](https://github.com/WildernessLabs/Meadow_Issues/issues/719) |
 | [718](https://github.com/WildernessLabs/Meadow_Issues/issues/718) | [Version 1.12.2 Crashes When Loading Settings From Resolver.Services](https://github.com/WildernessLabs/Meadow_Issues/issues/718) |
-| [716](https://github.com/WildernessLabs/Meadow_Issues/issues/716) | [Meadow.Desktop - Display shows up even tho its not being used](https://github.com/WildernessLabs/Meadow_Issues/issues/716) |
 ## Open Bugs
 
 | Query |  |
