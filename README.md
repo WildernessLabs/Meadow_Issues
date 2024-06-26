@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [734](https://github.com/WildernessLabs/Meadow_Issues/issues/734) | [CCM Ethernet Port Status](https://github.com/WildernessLabs/Meadow_Issues/issues/734) |
 ## Open Bugs
 
 | Query |  |
