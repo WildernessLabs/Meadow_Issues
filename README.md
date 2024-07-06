@@ -6,6 +6,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [742](https://github.com/WildernessLabs/Meadow_Issues/issues/742) | [[CLI 2.0.53] `meadow listen` does not reconnect to Meadow F7 Feather on reset](https://github.com/WildernessLabs/Meadow_Issues/issues/742) |
+| [741](https://github.com/WildernessLabs/Meadow_Issues/issues/741) | [[CLI 2.0.53] `meadow file initial` no longer works](https://github.com/WildernessLabs/Meadow_Issues/issues/741) |
 | [740](https://github.com/WildernessLabs/Meadow_Issues/issues/740) | [Meadow.OS - TimeSpan issue](https://github.com/WildernessLabs/Meadow_Issues/issues/740) |
 | [739](https://github.com/WildernessLabs/Meadow_Issues/issues/739) | [CLI Continuously repeats the last message from the application](https://github.com/WildernessLabs/Meadow_Issues/issues/739) |
 | [736](https://github.com/WildernessLabs/Meadow_Issues/issues/736) | [PlatformOS.FileSystem.ExternalStorageEvent not firing](https://github.com/WildernessLabs/Meadow_Issues/issues/736) |
