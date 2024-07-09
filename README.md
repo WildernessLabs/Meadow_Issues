@@ -6,22 +6,13 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [744](https://github.com/WildernessLabs/Meadow_Issues/issues/744) | [St7789 Appears to hang](https://github.com/WildernessLabs/Meadow_Issues/issues/744) |
-| [743](https://github.com/WildernessLabs/Meadow_Issues/issues/743) | [Extend delay between enabling debugging and sending first HCOM reponse](https://github.com/WildernessLabs/Meadow_Issues/issues/743) |
-| [742](https://github.com/WildernessLabs/Meadow_Issues/issues/742) | [[CLI 2.0.53] `meadow listen` does not reconnect to Meadow F7 Feather on reset](https://github.com/WildernessLabs/Meadow_Issues/issues/742) |
-| [741](https://github.com/WildernessLabs/Meadow_Issues/issues/741) | [[CLI 2.0.53] `meadow file initial` no longer works](https://github.com/WildernessLabs/Meadow_Issues/issues/741) |
-| [740](https://github.com/WildernessLabs/Meadow_Issues/issues/740) | [Meadow.OS - TimeSpan issue](https://github.com/WildernessLabs/Meadow_Issues/issues/740) |
-| [739](https://github.com/WildernessLabs/Meadow_Issues/issues/739) | [CLI Continuously repeats the last message from the application](https://github.com/WildernessLabs/Meadow_Issues/issues/739) |
-| [736](https://github.com/WildernessLabs/Meadow_Issues/issues/736) | [PlatformOS.FileSystem.ExternalStorageEvent not firing](https://github.com/WildernessLabs/Meadow_Issues/issues/736) |
-| [735](https://github.com/WildernessLabs/Meadow_Issues/issues/735) | [Operation not supported or unimplemented on this platform](https://github.com/WildernessLabs/Meadow_Issues/issues/735) |
-| [734](https://github.com/WildernessLabs/Meadow_Issues/issues/734) | [CCM Ethernet Port Status](https://github.com/WildernessLabs/Meadow_Issues/issues/734) |
 ## Open Bugs
 
 | Query |  |
 |:------|-:|
-| P0 | [13](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
-| P1 | [50](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [25](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P0 | [14](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
+| P1 | [51](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
+| P2 | [27](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
