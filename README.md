@@ -6,6 +6,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [744](https://github.com/WildernessLabs/Meadow_Issues/issues/744) | [St7789 Appears to hang](https://github.com/WildernessLabs/Meadow_Issues/issues/744) |
+| [743](https://github.com/WildernessLabs/Meadow_Issues/issues/743) | [Extend delay between enabling debugging and sending first HCOM reponse](https://github.com/WildernessLabs/Meadow_Issues/issues/743) |
 | [742](https://github.com/WildernessLabs/Meadow_Issues/issues/742) | [[CLI 2.0.53] `meadow listen` does not reconnect to Meadow F7 Feather on reset](https://github.com/WildernessLabs/Meadow_Issues/issues/742) |
 | [741](https://github.com/WildernessLabs/Meadow_Issues/issues/741) | [[CLI 2.0.53] `meadow file initial` no longer works](https://github.com/WildernessLabs/Meadow_Issues/issues/741) |
 | [740](https://github.com/WildernessLabs/Meadow_Issues/issues/740) | [Meadow.OS - TimeSpan issue](https://github.com/WildernessLabs/Meadow_Issues/issues/740) |
