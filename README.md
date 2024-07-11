@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [746](https://github.com/WildernessLabs/Meadow_Issues/issues/746) | [Meadow.CLI -- Command to delete all files times out](https://github.com/WildernessLabs/Meadow_Issues/issues/746) |
 | [745](https://github.com/WildernessLabs/Meadow_Issues/issues/745) | [Add the ability to show the DateTime in log messages](https://github.com/WildernessLabs/Meadow_Issues/issues/745) |
 ## Open Bugs
 
