@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [747](https://github.com/WildernessLabs/Meadow_Issues/issues/747) | [At least one image shows D05 and D06 support PWM for F7FeatherV2.](https://github.com/WildernessLabs/Meadow_Issues/issues/747) |
 | [746](https://github.com/WildernessLabs/Meadow_Issues/issues/746) | [Meadow.CLI -- Command to delete all files times out](https://github.com/WildernessLabs/Meadow_Issues/issues/746) |
 | [745](https://github.com/WildernessLabs/Meadow_Issues/issues/745) | [Add the ability to show the DateTime in log messages](https://github.com/WildernessLabs/Meadow_Issues/issues/745) |
 ## Open Bugs
