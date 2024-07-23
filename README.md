@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [751](https://github.com/WildernessLabs/Meadow_Issues/issues/751) | [Passing invalid Configuration to TrimApplication causes crash with “Sequence contains no elements” error. ](https://github.com/WildernessLabs/Meadow_Issues/issues/751) |
 | [750](https://github.com/WildernessLabs/Meadow_Issues/issues/750) | ['meadow file read mscorlib.dll' eventually leads to "The operation has timed out."](https://github.com/WildernessLabs/Meadow_Issues/issues/750) |
 | [749](https://github.com/WildernessLabs/Meadow_Issues/issues/749) | [Driver Request - VL53L4CX ToF Distance Sensor](https://github.com/WildernessLabs/Meadow_Issues/issues/749) |
 | [748](https://github.com/WildernessLabs/Meadow_Issues/issues/748) | [Driver Request - VL53L1X ToF Distance Sensor](https://github.com/WildernessLabs/Meadow_Issues/issues/748) |
