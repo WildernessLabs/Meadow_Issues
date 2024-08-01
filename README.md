@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [754](https://github.com/WildernessLabs/Meadow_Issues/issues/754) | [`meadow app deploy` does not delete files in subdirectories](https://github.com/WildernessLabs/Meadow_Issues/issues/754) |
 ## Open Bugs
 
 | Query |  |
