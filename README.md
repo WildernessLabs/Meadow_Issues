@@ -6,6 +6,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [758](https://github.com/WildernessLabs/Meadow_Issues/issues/758) | [Core/Documentation: Add `system` as a special directory](https://github.com/WildernessLabs/Meadow_Issues/issues/758) |
+| [757](https://github.com/WildernessLabs/Meadow_Issues/issues/757) | [CLI: Add `system` directory as a special directory](https://github.com/WildernessLabs/Meadow_Issues/issues/757) |
 | [754](https://github.com/WildernessLabs/Meadow_Issues/issues/754) | [`meadow app deploy` does not delete files in subdirectories](https://github.com/WildernessLabs/Meadow_Issues/issues/754) |
 ## Open Bugs
 
