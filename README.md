@@ -6,6 +6,9 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [762](https://github.com/WildernessLabs/Meadow_Issues/issues/762) | [CAN Controller Query with timeout ](https://github.com/WildernessLabs/Meadow_Issues/issues/762) |
+| [761](https://github.com/WildernessLabs/Meadow_Issues/issues/761) | [Can Controller - Clear Buffer](https://github.com/WildernessLabs/Meadow_Issues/issues/761) |
+| [760](https://github.com/WildernessLabs/Meadow_Issues/issues/760) | [Can controller re initialize bus to a different bus rate](https://github.com/WildernessLabs/Meadow_Issues/issues/760) |
 | [759](https://github.com/WildernessLabs/Meadow_Issues/issues/759) | [OV5642 ArduCAM driver request ](https://github.com/WildernessLabs/Meadow_Issues/issues/759) |
 ## Open Bugs
 
