@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [763](https://github.com/WildernessLabs/Meadow_Issues/issues/763) | [Application reports part of path is missing when trying to record an error](https://github.com/WildernessLabs/Meadow_Issues/issues/763) |
 | [759](https://github.com/WildernessLabs/Meadow_Issues/issues/759) | [OV5642 ArduCAM driver request ](https://github.com/WildernessLabs/Meadow_Issues/issues/759) |
 ## Open Bugs
 
