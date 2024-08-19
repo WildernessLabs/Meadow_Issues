@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [764](https://github.com/WildernessLabs/Meadow_Issues/issues/764) | [Cell network daemon always runs for a board configured for a cell application](https://github.com/WildernessLabs/Meadow_Issues/issues/764) |
 | [763](https://github.com/WildernessLabs/Meadow_Issues/issues/763) | [Application reports part of path is missing when trying to record an error](https://github.com/WildernessLabs/Meadow_Issues/issues/763) |
 | [759](https://github.com/WildernessLabs/Meadow_Issues/issues/759) | [OV5642 ArduCAM driver request ](https://github.com/WildernessLabs/Meadow_Issues/issues/759) |
 ## Open Bugs
