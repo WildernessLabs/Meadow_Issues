@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [766](https://github.com/WildernessLabs/Meadow_Issues/issues/766) | [MicroJson - JsonPropertyName class is missing the word Attribute at the end](https://github.com/WildernessLabs/Meadow_Issues/issues/766) |
 ## Open Bugs
 
 | Query |  |
