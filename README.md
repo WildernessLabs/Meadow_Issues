@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [769](https://github.com/WildernessLabs/Meadow_Issues/issues/769) | [nRF9151 driver request ](https://github.com/WildernessLabs/Meadow_Issues/issues/769) |
 | [768](https://github.com/WildernessLabs/Meadow_Issues/issues/768) | [When an error was shown in VS2022 it contained an solution that was for CLIv1](https://github.com/WildernessLabs/Meadow_Issues/issues/768) |
 | [766](https://github.com/WildernessLabs/Meadow_Issues/issues/766) | [MicroJson - JsonPropertyName class is missing the word Attribute at the end](https://github.com/WildernessLabs/Meadow_Issues/issues/766) |
 ## Open Bugs
