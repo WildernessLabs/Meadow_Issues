@@ -6,16 +6,14 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [770](https://github.com/WildernessLabs/Meadow_Issues/issues/770) | [Simulated Temperature Sensor throwing an InvalidOperationException](https://github.com/WildernessLabs/Meadow_Issues/issues/770) |
 | [769](https://github.com/WildernessLabs/Meadow_Issues/issues/769) | [nRF9151 driver request ](https://github.com/WildernessLabs/Meadow_Issues/issues/769) |
-| [766](https://github.com/WildernessLabs/Meadow_Issues/issues/766) | [MicroJson - JsonPropertyName class is missing the word Attribute at the end](https://github.com/WildernessLabs/Meadow_Issues/issues/766) |
 ## Open Bugs
 
 | Query |  |
 |:------|-:|
 | P0 | [3](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
-| P1 | [57](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [25](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P1 | [58](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
+| P2 | [26](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
