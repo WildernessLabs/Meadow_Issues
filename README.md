@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [776](https://github.com/WildernessLabs/Meadow_Issues/issues/776) | [VS2022 doesn't cancel gracefully if debugging handshake with Meadow fails](https://github.com/WildernessLabs/Meadow_Issues/issues/776) |
 ## Open Bugs
 
 | Query |  |
