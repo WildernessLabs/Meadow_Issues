@@ -6,23 +6,19 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [781](https://github.com/WildernessLabs/Meadow_Issues/issues/781) | [Found what looks like remnants of debugging code in hcom_file_dir_mgmt_utils.c](https://github.com/WildernessLabs/Meadow_Issues/issues/781) |
-| [780](https://github.com/WildernessLabs/Meadow_Issues/issues/780) | [At least one CLIv2 command, if a typo exists, will time out and not report an error](https://github.com/WildernessLabs/Meadow_Issues/issues/780) |
-| [777](https://github.com/WildernessLabs/Meadow_Issues/issues/777) | [Meadow CLI should recommend updates when calling meadow --version](https://github.com/WildernessLabs/Meadow_Issues/issues/777) |
-| [776](https://github.com/WildernessLabs/Meadow_Issues/issues/776) | [VS2022 doesn't cancel gracefully if debugging handshake with Meadow fails](https://github.com/WildernessLabs/Meadow_Issues/issues/776) |
 ## Open Bugs
 
 | Query |  |
 |:------|-:|
 | P0 | [3](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
-| P1 | [55](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
+| P1 | [57](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
 | P2 | [25](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
 |:------|-:|
 | P0 | [1](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Aos) |
-| P1 | [6](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Aos) |
+| P1 | [7](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Aos) |
 | P2 | [4](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2%20label%3Aos) |
 ## Meadow.Core
 
