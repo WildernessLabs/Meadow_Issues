@@ -6,6 +6,9 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [788](https://github.com/WildernessLabs/Meadow_Issues/issues/788) | [[VS Code Ext 2.0.0] Debugging does not always open the Debug Console after compilation](https://github.com/WildernessLabs/Meadow_Issues/issues/788) |
+| [787](https://github.com/WildernessLabs/Meadow_Issues/issues/787) | [[VS Code Ext 2.0.0] Deployment sometimes says `Visual Studio has Connected` and then halts](https://github.com/WildernessLabs/Meadow_Issues/issues/787) |
+| [786](https://github.com/WildernessLabs/Meadow_Issues/issues/786) | [[VS Code Ext 2.0.0] Extension attempts to start debugging when deployment fails](https://github.com/WildernessLabs/Meadow_Issues/issues/786) |
 | [785](https://github.com/WildernessLabs/Meadow_Issues/issues/785) | [Review Json_Basic sample](https://github.com/WildernessLabs/Meadow_Issues/issues/785) |
 ## Open Bugs
 
