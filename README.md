@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [791](https://github.com/WildernessLabs/Meadow_Issues/issues/791) | [Allow Bluetooth Server Restart](https://github.com/WildernessLabs/Meadow_Issues/issues/791) |
 ## Open Bugs
 
 | Query |  |
