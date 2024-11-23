@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [795](https://github.com/WildernessLabs/Meadow_Issues/issues/795) | [Bluetooth Characteristic length limited to less than 20 bytes](https://github.com/WildernessLabs/Meadow_Issues/issues/795) |
 | [792](https://github.com/WildernessLabs/Meadow_Issues/issues/792) | [Bluetooth Read after write returns incorrect value](https://github.com/WildernessLabs/Meadow_Issues/issues/792) |
 | [791](https://github.com/WildernessLabs/Meadow_Issues/issues/791) | [Allow Bluetooth Server Restart](https://github.com/WildernessLabs/Meadow_Issues/issues/791) |
 ## Open Bugs
