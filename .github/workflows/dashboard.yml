@@ -26,6 +26,10 @@ jobs:
             widgets:
             - type: 'table'
               issue_query: 'repo:WildernessLabs/Meadow_Issues is:open is:issue no:label'
+          - title: 'Needs Re-Test'
+            widgets:
+            - type: 'table'
+              issue_query: 'repo:WildernessLabs/Meadow_Issues is:open label:Needs%20re-test'
           - title: 'Open Bugs'
             widgets:
             - type: 'number'
