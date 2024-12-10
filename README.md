@@ -10,13 +10,18 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [435](https://github.com/WildernessLabs/Meadow_Issues/issues/435) | [Network generating a wake interrupt? Sort of?](https://github.com/WildernessLabs/Meadow_Issues/issues/435) |
+| [406](https://github.com/WildernessLabs/Meadow_Issues/issues/406) | [COM Port Not Available After Sleep](https://github.com/WildernessLabs/Meadow_Issues/issues/406) |
+| [297](https://github.com/WildernessLabs/Meadow_Issues/issues/297) | [AMQP SenderLink times out on 3rd call](https://github.com/WildernessLabs/Meadow_Issues/issues/297) |
+| [293](https://github.com/WildernessLabs/Meadow_Issues/issues/293) | [Creating a PWM port on CCM interferes with I2C and analog input ports ](https://github.com/WildernessLabs/Meadow_Issues/issues/293) |
+| [241](https://github.com/WildernessLabs/Meadow_Issues/issues/241) | [returning dynamic variables from functions hangs the code](https://github.com/WildernessLabs/Meadow_Issues/issues/241) |
 ## Open Bugs
 
 | Query |  |
 |:------|-:|
 | P0 | [3](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
 | P1 | [42](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [25](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P2 | [23](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
