@@ -10,6 +10,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [439](https://github.com/WildernessLabs/Meadow_Issues/issues/439) | [Sockets TcpListener and TcpClient - ESP32 "disappears" - No ping](https://github.com/WildernessLabs/Meadow_Issues/issues/439) |
 | [435](https://github.com/WildernessLabs/Meadow_Issues/issues/435) | [Network generating a wake interrupt? Sort of?](https://github.com/WildernessLabs/Meadow_Issues/issues/435) |
 | [406](https://github.com/WildernessLabs/Meadow_Issues/issues/406) | [COM Port Not Available After Sleep](https://github.com/WildernessLabs/Meadow_Issues/issues/406) |
 | [297](https://github.com/WildernessLabs/Meadow_Issues/issues/297) | [AMQP SenderLink times out on 3rd call](https://github.com/WildernessLabs/Meadow_Issues/issues/297) |
