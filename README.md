@@ -15,11 +15,11 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [506](https://github.com/WildernessLabs/Meadow_Issues/issues/506) | [Index out of range exceptions in Esp32Coprocessor.Encoder.cs on RaiseWiFiDisconnected](https://github.com/WildernessLabs/Meadow_Issues/issues/506) |
 | [439](https://github.com/WildernessLabs/Meadow_Issues/issues/439) | [Sockets TcpListener and TcpClient - ESP32 "disappears" - No ping](https://github.com/WildernessLabs/Meadow_Issues/issues/439) |
 | [435](https://github.com/WildernessLabs/Meadow_Issues/issues/435) | [Network generating a wake interrupt? Sort of?](https://github.com/WildernessLabs/Meadow_Issues/issues/435) |
-| [414](https://github.com/WildernessLabs/Meadow_Issues/issues/414) | [Update Service state machine does not refresh token](https://github.com/WildernessLabs/Meadow_Issues/issues/414) |
 | [406](https://github.com/WildernessLabs/Meadow_Issues/issues/406) | [COM Port Not Available After Sleep](https://github.com/WildernessLabs/Meadow_Issues/issues/406) |
 | [375](https://github.com/WildernessLabs/Meadow_Issues/issues/375) | [GPIO State Transitions on Power-up/Start-up/Reset](https://github.com/WildernessLabs/Meadow_Issues/issues/375) |
 | [360](https://github.com/WildernessLabs/Meadow_Issues/issues/360) | [Meadow.OS will not startup if a "bad" meadow.config.yaml configuration file has been downloaded](https://github.com/WildernessLabs/Meadow_Issues/issues/360) |
 | [358](https://github.com/WildernessLabs/Meadow_Issues/issues/358) | [Former, rarely used QSPI memory test command removed from CLI v2. Need set developer test added.](https://github.com/WildernessLabs/Meadow_Issues/issues/358) |
+| [558](https://github.com/WildernessLabs/Meadow_Issues/issues/558) | [Device.PlatformOS.Sleep allows DateTime and TimeSpan entries that are too limited and DateTime values that have already past](https://github.com/WildernessLabs/Meadow_Issues/issues/558) |
 ## Open Bugs
 
 | Query |  |
