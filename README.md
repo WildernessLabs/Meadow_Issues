@@ -6,6 +6,9 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [802](https://github.com/WildernessLabs/Meadow_Issues/issues/802) | [network adapters should have a State enumeration](https://github.com/WildernessLabs/Meadow_Issues/issues/802) |
+| [801](https://github.com/WildernessLabs/Meadow_Issues/issues/801) | [Support the proper meadow.config.yaml bits for cell](https://github.com/WildernessLabs/Meadow_Issues/issues/801) |
+| [800](https://github.com/WildernessLabs/Meadow_Issues/issues/800) | [ICellAdapter has no Connect or Disconnect methods](https://github.com/WildernessLabs/Meadow_Issues/issues/800) |
 ## Needs Re-Test
 
 | Issue | Title |
