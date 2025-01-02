@@ -20,10 +20,10 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [435](https://github.com/WildernessLabs/Meadow_Issues/issues/435) | [Network generating a wake interrupt? Sort of?](https://github.com/WildernessLabs/Meadow_Issues/issues/435) |
 | [406](https://github.com/WildernessLabs/Meadow_Issues/issues/406) | [COM Port Not Available After Sleep](https://github.com/WildernessLabs/Meadow_Issues/issues/406) |
 | [375](https://github.com/WildernessLabs/Meadow_Issues/issues/375) | [GPIO State Transitions on Power-up/Start-up/Reset](https://github.com/WildernessLabs/Meadow_Issues/issues/375) |
-| [360](https://github.com/WildernessLabs/Meadow_Issues/issues/360) | [Meadow.OS will not startup if a "bad" meadow.config.yaml configuration file has been downloaded](https://github.com/WildernessLabs/Meadow_Issues/issues/360) |
 | [358](https://github.com/WildernessLabs/Meadow_Issues/issues/358) | [Former, rarely used QSPI memory test command removed from CLI v2. Need set developer test added.](https://github.com/WildernessLabs/Meadow_Issues/issues/358) |
 | [558](https://github.com/WildernessLabs/Meadow_Issues/issues/558) | [Device.PlatformOS.Sleep allows DateTime and TimeSpan entries that are too limited and DateTime values that have already past](https://github.com/WildernessLabs/Meadow_Issues/issues/558) |
 | [297](https://github.com/WildernessLabs/Meadow_Issues/issues/297) | [AMQP SenderLink times out on 3rd call](https://github.com/WildernessLabs/Meadow_Issues/issues/297) |
+| [293](https://github.com/WildernessLabs/Meadow_Issues/issues/293) | [Creating a PWM port on CCM interferes with I2C and analog input ports ](https://github.com/WildernessLabs/Meadow_Issues/issues/293) |
 ## Open Bugs
 
 | Query |  |
