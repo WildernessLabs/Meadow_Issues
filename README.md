@@ -6,6 +6,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [816](https://github.com/WildernessLabs/Meadow_Issues/issues/816) | [Meadow.Cloud Feature fixed width columns for `Timestamp` and `ReceivedAt`](https://github.com/WildernessLabs/Meadow_Issues/issues/816) |
+| [815](https://github.com/WildernessLabs/Meadow_Issues/issues/815) | [Meadow.Cloud Feature request to permit easy delete of logged data](https://github.com/WildernessLabs/Meadow_Issues/issues/815) |
 | [814](https://github.com/WildernessLabs/Meadow_Issues/issues/814) | [Meadow.Cloud Analytics "Show data for the last" drop down has no effect](https://github.com/WildernessLabs/Meadow_Issues/issues/814) |
 | [812](https://github.com/WildernessLabs/Meadow_Issues/issues/812) | [VS Code extension - Debug Console tab visibility ](https://github.com/WildernessLabs/Meadow_Issues/issues/812) |
 | [801](https://github.com/WildernessLabs/Meadow_Issues/issues/801) | [Support the proper meadow.config.yaml bits for cell](https://github.com/WildernessLabs/Meadow_Issues/issues/801) |
