@@ -6,11 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [816](https://github.com/WildernessLabs/Meadow_Issues/issues/816) | [Meadow.Cloud Feature fixed width columns for `Timestamp` and `ReceivedAt`](https://github.com/WildernessLabs/Meadow_Issues/issues/816) |
-| [815](https://github.com/WildernessLabs/Meadow_Issues/issues/815) | [Meadow.Cloud Feature request to permit easy delete of logged data](https://github.com/WildernessLabs/Meadow_Issues/issues/815) |
-| [814](https://github.com/WildernessLabs/Meadow_Issues/issues/814) | [Meadow.Cloud Analytics "Show data for the last" drop down has no effect](https://github.com/WildernessLabs/Meadow_Issues/issues/814) |
-| [812](https://github.com/WildernessLabs/Meadow_Issues/issues/812) | [VS Code extension - Debug Console tab visibility ](https://github.com/WildernessLabs/Meadow_Issues/issues/812) |
-| [801](https://github.com/WildernessLabs/Meadow_Issues/issues/801) | [Support the proper meadow.config.yaml bits for cell](https://github.com/WildernessLabs/Meadow_Issues/issues/801) |
 ## Needs Re-Test
 
 | Issue | Title |
@@ -31,7 +26,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 |:------|-:|
 | P0 | [1](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
 | P1 | [40](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [22](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P2 | [21](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
@@ -52,7 +47,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 |:------|-:|
 | P0 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Afoundation) |
 | P1 | [5](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Afoundation) |
-| P2 | [1](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2%20label%3Afoundation) |
+| P2 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2%20label%3Afoundation) |
 ## Meadow.Cloud
 
 | Query |  |
