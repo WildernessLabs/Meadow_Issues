@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [817](https://github.com/WildernessLabs/Meadow_Issues/issues/817) | [Meadow Blog - Update Azure Hub IoT Setting Up](https://github.com/WildernessLabs/Meadow_Issues/issues/817) |
 ## Needs Re-Test
 
 | Issue | Title |
