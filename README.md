@@ -6,15 +6,11 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [821](https://github.com/WildernessLabs/Meadow_Issues/issues/821) | [VS Deploy should clean up OTA folders and files](https://github.com/WildernessLabs/Meadow_Issues/issues/821) |
-| [820](https://github.com/WildernessLabs/Meadow_Issues/issues/820) | [Login into Meadow Cloud fails, error -4352](https://github.com/WildernessLabs/Meadow_Issues/issues/820) |
-| [818](https://github.com/WildernessLabs/Meadow_Issues/issues/818) | [Meadow Cloud event filter does not return results if paged and eventId:nn added to search](https://github.com/WildernessLabs/Meadow_Issues/issues/818) |
-| [817](https://github.com/WildernessLabs/Meadow_Issues/issues/817) | [Meadow Blog - Update Azure Hub IoT Setting Up](https://github.com/WildernessLabs/Meadow_Issues/issues/817) |
 ## Needs Re-Test
 
 | Issue | Title |
 |---|---|
-| [619](https://github.com/WildernessLabs/Meadow_Issues/issues/619) | [Setting breakpoint causing runtime exception](https://github.com/WildernessLabs/Meadow_Issues/issues/619) |
+| [619](https://github.com/WildernessLabs/Meadow_Issues/issues/619) | [Setting breakpoint In TensorFlow sample causing runtime exception](https://github.com/WildernessLabs/Meadow_Issues/issues/619) |
 | [534](https://github.com/WildernessLabs/Meadow_Issues/issues/534) | [USB Port change each device reset on Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/534) |
 | [439](https://github.com/WildernessLabs/Meadow_Issues/issues/439) | [Sockets TcpListener and TcpClient - ESP32 "disappears" - No ping](https://github.com/WildernessLabs/Meadow_Issues/issues/439) |
 | [435](https://github.com/WildernessLabs/Meadow_Issues/issues/435) | [Network generating a wake interrupt? Sort of?](https://github.com/WildernessLabs/Meadow_Issues/issues/435) |
@@ -29,7 +25,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Query |  |
 |:------|-:|
 | P0 | [1](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
-| P1 | [39](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
+| P1 | [42](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
 | P2 | [21](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
