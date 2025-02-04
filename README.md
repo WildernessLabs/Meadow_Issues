@@ -14,7 +14,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [773](https://github.com/WildernessLabs/Meadow_Issues/issues/773) | [Memory leak/fragmentation on network](https://github.com/WildernessLabs/Meadow_Issues/issues/773) |
 | [619](https://github.com/WildernessLabs/Meadow_Issues/issues/619) | [Setting breakpoint causing runtime exception](https://github.com/WildernessLabs/Meadow_Issues/issues/619) |
 | [534](https://github.com/WildernessLabs/Meadow_Issues/issues/534) | [USB Port change each device reset on Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/534) |
 | [439](https://github.com/WildernessLabs/Meadow_Issues/issues/439) | [Sockets TcpListener and TcpClient - ESP32 "disappears" - No ping](https://github.com/WildernessLabs/Meadow_Issues/issues/439) |
@@ -24,6 +23,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [293](https://github.com/WildernessLabs/Meadow_Issues/issues/293) | [Creating a PWM port on CCM interferes with I2C and analog input ports ](https://github.com/WildernessLabs/Meadow_Issues/issues/293) |
 | [256](https://github.com/WildernessLabs/Meadow_Issues/issues/256) | [Device.Information.DeviceName does not change in time to catch an automated AP connect](https://github.com/WildernessLabs/Meadow_Issues/issues/256) |
 | [251](https://github.com/WildernessLabs/Meadow_Issues/issues/251) | [Population of the WiFi IP address can take a short time following connection.](https://github.com/WildernessLabs/Meadow_Issues/issues/251) |
+| [241](https://github.com/WildernessLabs/Meadow_Issues/issues/241) | [returning dynamic variables from functions hangs the code](https://github.com/WildernessLabs/Meadow_Issues/issues/241) |
 ## Open Bugs
 
 | Query |  |
