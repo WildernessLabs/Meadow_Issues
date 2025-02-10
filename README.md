@@ -17,7 +17,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [558](https://github.com/WildernessLabs/Meadow_Issues/issues/558) | [Device.PlatformOS.Sleep allows DateTime and TimeSpan entries that are too limited and DateTime values that have already past](https://github.com/WildernessLabs/Meadow_Issues/issues/558) |
 | [293](https://github.com/WildernessLabs/Meadow_Issues/issues/293) | [Creating a PWM port on CCM interferes with I2C and analog input ports ](https://github.com/WildernessLabs/Meadow_Issues/issues/293) |
 | [256](https://github.com/WildernessLabs/Meadow_Issues/issues/256) | [Device.Information.DeviceName does not change in time to catch an automated AP connect](https://github.com/WildernessLabs/Meadow_Issues/issues/256) |
-| [251](https://github.com/WildernessLabs/Meadow_Issues/issues/251) | [Population of the WiFi IP address can take a short time following connection.](https://github.com/WildernessLabs/Meadow_Issues/issues/251) |
 | [241](https://github.com/WildernessLabs/Meadow_Issues/issues/241) | [returning dynamic variables from functions hangs the code](https://github.com/WildernessLabs/Meadow_Issues/issues/241) |
 | [219](https://github.com/WildernessLabs/Meadow_Issues/issues/219) | [Wi-Fi connection hangs on repeat deployments](https://github.com/WildernessLabs/Meadow_Issues/issues/219) |
 ## Open Bugs
@@ -26,7 +25,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 |:------|-:|
 | P0 | [1](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
 | P1 | [42](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [20](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P2 | [19](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
