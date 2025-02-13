@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [825](https://github.com/WildernessLabs/Meadow_Issues/issues/825) | [Add Interop to NuttX to determine when Serial IO write buffer has been emptied.](https://github.com/WildernessLabs/Meadow_Issues/issues/825) |
 | [824](https://github.com/WildernessLabs/Meadow_Issues/issues/824) | [Remove the Skia/Silk display hard dependency from the Linux/RPi platform (and make it optional)](https://github.com/WildernessLabs/Meadow_Issues/issues/824) |
 ## Needs Re-Test
 
