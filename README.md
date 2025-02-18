@@ -6,13 +6,12 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [826](https://github.com/WildernessLabs/Meadow_Issues/issues/826) | [ST7789 display not working with FT232H expander](https://github.com/WildernessLabs/Meadow_Issues/issues/826) |
-| [825](https://github.com/WildernessLabs/Meadow_Issues/issues/825) | [Add Interop to NuttX to determine when Serial IO write buffer has been emptied.](https://github.com/WildernessLabs/Meadow_Issues/issues/825) |
-| [824](https://github.com/WildernessLabs/Meadow_Issues/issues/824) | [Remove the Skia/Silk display hard dependency from the Linux/RPi platform (and make it optional)](https://github.com/WildernessLabs/Meadow_Issues/issues/824) |
 ## Needs Re-Test
 
 | Issue | Title |
 |---|---|
+| [787](https://github.com/WildernessLabs/Meadow_Issues/issues/787) | [[VS Code Ext 2.0.0] Deployment sometimes says `Visual Studio has Connected` and then halts](https://github.com/WildernessLabs/Meadow_Issues/issues/787) |
+| [786](https://github.com/WildernessLabs/Meadow_Issues/issues/786) | [[VS Code Ext 2.0.0] Extension attempts to start debugging when deployment fails](https://github.com/WildernessLabs/Meadow_Issues/issues/786) |
 | [619](https://github.com/WildernessLabs/Meadow_Issues/issues/619) | [Setting breakpoint In TensorFlow sample causing runtime exception](https://github.com/WildernessLabs/Meadow_Issues/issues/619) |
 | [534](https://github.com/WildernessLabs/Meadow_Issues/issues/534) | [USB Port change each device reset on Linux](https://github.com/WildernessLabs/Meadow_Issues/issues/534) |
 | [439](https://github.com/WildernessLabs/Meadow_Issues/issues/439) | [Sockets TcpListener and TcpClient - ESP32 "disappears" - No ping](https://github.com/WildernessLabs/Meadow_Issues/issues/439) |
@@ -20,21 +19,20 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [558](https://github.com/WildernessLabs/Meadow_Issues/issues/558) | [Device.PlatformOS.Sleep allows DateTime and TimeSpan entries that are too limited and DateTime values that have already past](https://github.com/WildernessLabs/Meadow_Issues/issues/558) |
 | [293](https://github.com/WildernessLabs/Meadow_Issues/issues/293) | [Creating a PWM port on CCM interferes with I2C and analog input ports ](https://github.com/WildernessLabs/Meadow_Issues/issues/293) |
 | [256](https://github.com/WildernessLabs/Meadow_Issues/issues/256) | [Device.Information.DeviceName does not change in time to catch an automated AP connect](https://github.com/WildernessLabs/Meadow_Issues/issues/256) |
-| [241](https://github.com/WildernessLabs/Meadow_Issues/issues/241) | [returning dynamic variables from functions hangs the code](https://github.com/WildernessLabs/Meadow_Issues/issues/241) |
-| [219](https://github.com/WildernessLabs/Meadow_Issues/issues/219) | [Wi-Fi connection hangs on repeat deployments](https://github.com/WildernessLabs/Meadow_Issues/issues/219) |
+| [252](https://github.com/WildernessLabs/Meadow_Issues/issues/252) | [System connection event appears to fire when it should have failed](https://github.com/WildernessLabs/Meadow_Issues/issues/252) |
 ## Open Bugs
 
 | Query |  |
 |:------|-:|
-| P0 | [1](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
+| P0 | [2](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
 | P1 | [41](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [19](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P2 | [20](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
 |:------|-:|
 | P0 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Aos) |
-| P1 | [5](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Aos) |
+| P1 | [6](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Aos) |
 | P2 | [4](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2%20label%3Aos) |
 ## Meadow.Core
 
