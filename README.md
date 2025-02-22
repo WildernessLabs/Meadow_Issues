@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [829](https://github.com/WildernessLabs/Meadow_Issues/issues/829) | [`meadow file delete all` is no longer available in 2.0.67](https://github.com/WildernessLabs/Meadow_Issues/issues/829) |
 | [828](https://github.com/WildernessLabs/Meadow_Issues/issues/828) | [Better error messaging when calling meadow app run from a bad folder](https://github.com/WildernessLabs/Meadow_Issues/issues/828) |
 ## Needs Re-Test
 
