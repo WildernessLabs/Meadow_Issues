@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [830](https://github.com/WildernessLabs/Meadow_Issues/issues/830) | [Improve WiFi connection status messages](https://github.com/WildernessLabs/Meadow_Issues/issues/830) |
 | [828](https://github.com/WildernessLabs/Meadow_Issues/issues/828) | [Better error messaging when calling meadow app run from a bad folder](https://github.com/WildernessLabs/Meadow_Issues/issues/828) |
 ## Needs Re-Test
 
