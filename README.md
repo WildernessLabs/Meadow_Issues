@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [833](https://github.com/WildernessLabs/Meadow_Issues/issues/833) | [Broken links on docs](https://github.com/WildernessLabs/Meadow_Issues/issues/833) |
 | [831](https://github.com/WildernessLabs/Meadow_Issues/issues/831) | [Last VS2022 extension isn't deploying consistently](https://github.com/WildernessLabs/Meadow_Issues/issues/831) |
 | [830](https://github.com/WildernessLabs/Meadow_Issues/issues/830) | [Improve WiFi connection status messages](https://github.com/WildernessLabs/Meadow_Issues/issues/830) |
 | [828](https://github.com/WildernessLabs/Meadow_Issues/issues/828) | [Better error messaging when calling meadow app run from a bad folder](https://github.com/WildernessLabs/Meadow_Issues/issues/828) |
