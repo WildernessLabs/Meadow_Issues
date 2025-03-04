@@ -7,9 +7,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Issue | Title |
 |---|---|
 | [833](https://github.com/WildernessLabs/Meadow_Issues/issues/833) | [Broken links on docs](https://github.com/WildernessLabs/Meadow_Issues/issues/833) |
-| [831](https://github.com/WildernessLabs/Meadow_Issues/issues/831) | [Last VS2022 extension isn't deploying consistently](https://github.com/WildernessLabs/Meadow_Issues/issues/831) |
-| [830](https://github.com/WildernessLabs/Meadow_Issues/issues/830) | [Improve WiFi connection status messages](https://github.com/WildernessLabs/Meadow_Issues/issues/830) |
-| [828](https://github.com/WildernessLabs/Meadow_Issues/issues/828) | [Better error messaging when calling meadow app run from a bad folder](https://github.com/WildernessLabs/Meadow_Issues/issues/828) |
 ## Needs Re-Test
 
 | Issue | Title |
@@ -30,7 +27,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 |:------|-:|
 | P0 | [2](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
 | P1 | [40](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [20](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P2 | [21](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
