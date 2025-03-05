@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [834](https://github.com/WildernessLabs/Meadow_Issues/issues/834) | [Fix partial updates for the ILI9341](https://github.com/WildernessLabs/Meadow_Issues/issues/834) |
 | [833](https://github.com/WildernessLabs/Meadow_Issues/issues/833) | [Broken links on docs](https://github.com/WildernessLabs/Meadow_Issues/issues/833) |
 ## Needs Re-Test
 
