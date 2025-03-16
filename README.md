@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [836](https://github.com/WildernessLabs/Meadow_Issues/issues/836) | [BLE - Respond to iBeacon Advertisements](https://github.com/WildernessLabs/Meadow_Issues/issues/836) |
 | [835](https://github.com/WildernessLabs/Meadow_Issues/issues/835) | [Investigate ESP32 MCU Speed](https://github.com/WildernessLabs/Meadow_Issues/issues/835) |
 | [833](https://github.com/WildernessLabs/Meadow_Issues/issues/833) | [Broken links on docs](https://github.com/WildernessLabs/Meadow_Issues/issues/833) |
 ## Needs Re-Test
