@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [838](https://github.com/WildernessLabs/Meadow_Issues/issues/838) | [CLI: Display build errors](https://github.com/WildernessLabs/Meadow_Issues/issues/838) |
 ## Needs Re-Test
 
 | Issue | Title |
