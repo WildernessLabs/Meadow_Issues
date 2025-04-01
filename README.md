@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [840](https://github.com/WildernessLabs/Meadow_Issues/issues/840) | [Meadow Cloud forgets the number of rows per page on refresh](https://github.com/WildernessLabs/Meadow_Issues/issues/840) |
 | [839](https://github.com/WildernessLabs/Meadow_Issues/issues/839) | [Long Console.WriteLine messages lose a character](https://github.com/WildernessLabs/Meadow_Issues/issues/839) |
 | [838](https://github.com/WildernessLabs/Meadow_Issues/issues/838) | [CLI: Display build errors](https://github.com/WildernessLabs/Meadow_Issues/issues/838) |
 ## Needs Re-Test
