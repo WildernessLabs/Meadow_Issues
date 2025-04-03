@@ -14,12 +14,12 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [786](https://github.com/WildernessLabs/Meadow_Issues/issues/786) | [[VS Code Ext 2.0.0] Extension attempts to start debugging when deployment fails](https://github.com/WildernessLabs/Meadow_Issues/issues/786) |
 | [619](https://github.com/WildernessLabs/Meadow_Issues/issues/619) | [Setting breakpoint In TensorFlow sample causing runtime exception](https://github.com/WildernessLabs/Meadow_Issues/issues/619) |
 | [552](https://github.com/WildernessLabs/Meadow_Issues/issues/552) | [First Ethernet request is unacceptably slow](https://github.com/WildernessLabs/Meadow_Issues/issues/552) |
+| [551](https://github.com/WildernessLabs/Meadow_Issues/issues/551) | [OS is not properly parsing `meadow.config.yaml` with empty sections](https://github.com/WildernessLabs/Meadow_Issues/issues/551) |
 | [439](https://github.com/WildernessLabs/Meadow_Issues/issues/439) | [Sockets TcpListener and TcpClient - ESP32 "disappears" - No ping](https://github.com/WildernessLabs/Meadow_Issues/issues/439) |
 | [435](https://github.com/WildernessLabs/Meadow_Issues/issues/435) | [Network generating a wake interrupt? Sort of?](https://github.com/WildernessLabs/Meadow_Issues/issues/435) |
 | [558](https://github.com/WildernessLabs/Meadow_Issues/issues/558) | [Device.PlatformOS.Sleep allows DateTime and TimeSpan entries that are too limited and DateTime values that have already past](https://github.com/WildernessLabs/Meadow_Issues/issues/558) |
 | [293](https://github.com/WildernessLabs/Meadow_Issues/issues/293) | [Creating a PWM port on CCM interferes with I2C and analog input ports ](https://github.com/WildernessLabs/Meadow_Issues/issues/293) |
 | [256](https://github.com/WildernessLabs/Meadow_Issues/issues/256) | [Device.Information.DeviceName does not change in time to catch an automated AP connect](https://github.com/WildernessLabs/Meadow_Issues/issues/256) |
-| [241](https://github.com/WildernessLabs/Meadow_Issues/issues/241) | [returning dynamic variables from functions hangs the code](https://github.com/WildernessLabs/Meadow_Issues/issues/241) |
 ## Open Bugs
 
 | Query |  |
