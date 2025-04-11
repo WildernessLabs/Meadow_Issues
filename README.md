@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [841](https://github.com/WildernessLabs/Meadow_Issues/issues/841) | [Better reporting on DFU driver issues](https://github.com/WildernessLabs/Meadow_Issues/issues/841) |
 ## Needs Re-Test
 
 | Issue | Title |
