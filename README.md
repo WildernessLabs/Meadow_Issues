@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [843](https://github.com/WildernessLabs/Meadow_Issues/issues/843) | [CLI 2.1.0: `meadow developer` no longer works](https://github.com/WildernessLabs/Meadow_Issues/issues/843) |
 | [841](https://github.com/WildernessLabs/Meadow_Issues/issues/841) | [Better reporting on DFU driver issues](https://github.com/WildernessLabs/Meadow_Issues/issues/841) |
 ## Needs Re-Test
 
