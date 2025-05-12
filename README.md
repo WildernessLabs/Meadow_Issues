@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [847](https://github.com/WildernessLabs/Meadow_Issues/issues/847) | [CLI v 2.1.0.4 - Duplicate messages generated when flashing ESP32](https://github.com/WildernessLabs/Meadow_Issues/issues/847) |
 ## Needs Re-Test
 
 | Issue | Title |
