@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [849](https://github.com/WildernessLabs/Meadow_Issues/issues/849) | [[CLI] An empty file on device will always be skipped on deployed](https://github.com/WildernessLabs/Meadow_Issues/issues/849) |
 ## Needs Re-Test
 
 | Issue | Title |
