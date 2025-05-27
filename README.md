@@ -20,12 +20,12 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [435](https://github.com/WildernessLabs/Meadow_Issues/issues/435) | [Network generating a wake interrupt? Sort of?](https://github.com/WildernessLabs/Meadow_Issues/issues/435) |
 | [558](https://github.com/WildernessLabs/Meadow_Issues/issues/558) | [Device.PlatformOS.Sleep allows DateTime and TimeSpan entries that are too limited and DateTime values that have already past](https://github.com/WildernessLabs/Meadow_Issues/issues/558) |
 | [293](https://github.com/WildernessLabs/Meadow_Issues/issues/293) | [Creating a PWM port on CCM interferes with I2C and analog input ports ](https://github.com/WildernessLabs/Meadow_Issues/issues/293) |
-| [256](https://github.com/WildernessLabs/Meadow_Issues/issues/256) | [Device.Information.DeviceName does not change in time to catch an automated AP connect](https://github.com/WildernessLabs/Meadow_Issues/issues/256) |
+| [285](https://github.com/WildernessLabs/Meadow_Issues/issues/285) | [Meadow App wont run at all with libraries using non-modified MQTTnet](https://github.com/WildernessLabs/Meadow_Issues/issues/285) |
 ## Open Bugs
 
 | Query |  |
 |:------|-:|
-| P0 | [3](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
+| P0 | [2](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
 | P1 | [36](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
 | P2 | [22](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
