@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [851](https://github.com/WildernessLabs/Meadow_Issues/issues/851) | [Picture control cannot be made non-visible before adding to a layout](https://github.com/WildernessLabs/Meadow_Issues/issues/851) |
 ## Needs Re-Test
 
 | Issue | Title |
