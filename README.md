@@ -6,8 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [852](https://github.com/WildernessLabs/Meadow_Issues/issues/852) | [StackLayout not dealing with non-visible controls](https://github.com/WildernessLabs/Meadow_Issues/issues/852) |
-| [851](https://github.com/WildernessLabs/Meadow_Issues/issues/851) | [Picture control cannot be made non-visible before adding to a layout](https://github.com/WildernessLabs/Meadow_Issues/issues/851) |
 ## Needs Re-Test
 
 | Issue | Title |
@@ -27,7 +25,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Query |  |
 |:------|-:|
 | P0 | [2](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
-| P1 | [37](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
+| P1 | [38](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
 | P2 | [22](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
