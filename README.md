@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [856](https://github.com/WildernessLabs/Meadow_Issues/issues/856) | [install Meadow to Third-party development boards](https://github.com/WildernessLabs/Meadow_Issues/issues/856) |
 ## Needs Re-Test
 
 | Issue | Title |
