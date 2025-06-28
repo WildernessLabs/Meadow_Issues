@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [857](https://github.com/WildernessLabs/Meadow_Issues/issues/857) | [Bluetooth events not firing](https://github.com/WildernessLabs/Meadow_Issues/issues/857) |
 ## Needs Re-Test
 
 | Issue | Title |
