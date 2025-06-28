@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [859](https://github.com/WildernessLabs/Meadow_Issues/issues/859) | [Meadow CLI fails when `meadow cloud package create` is run twice in a row.](https://github.com/WildernessLabs/Meadow_Issues/issues/859) |
 | [858](https://github.com/WildernessLabs/Meadow_Issues/issues/858) | [NTP not respecting 43200 sec refresh (12 hours)](https://github.com/WildernessLabs/Meadow_Issues/issues/858) |
 | [857](https://github.com/WildernessLabs/Meadow_Issues/issues/857) | [Bluetooth events not firing](https://github.com/WildernessLabs/Meadow_Issues/issues/857) |
 ## Needs Re-Test
