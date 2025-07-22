@@ -6,10 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [860](https://github.com/WildernessLabs/Meadow_Issues/issues/860) | [Meadow.CLI is not buildable from source.](https://github.com/WildernessLabs/Meadow_Issues/issues/860) |
-| [859](https://github.com/WildernessLabs/Meadow_Issues/issues/859) | [Meadow CLI fails when `meadow cloud package create` is run twice in a row.](https://github.com/WildernessLabs/Meadow_Issues/issues/859) |
-| [858](https://github.com/WildernessLabs/Meadow_Issues/issues/858) | [NTP not respecting 43200 sec refresh (12 hours)](https://github.com/WildernessLabs/Meadow_Issues/issues/858) |
-| [857](https://github.com/WildernessLabs/Meadow_Issues/issues/857) | [Bluetooth events not firing](https://github.com/WildernessLabs/Meadow_Issues/issues/857) |
 ## Needs Re-Test
 
 | Issue | Title |
@@ -29,8 +25,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Query |  |
 |:------|-:|
 | P0 | [2](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
-| P1 | [39](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [22](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P1 | [40](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
+| P2 | [23](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
@@ -57,7 +53,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Query |  |
 |:------|-:|
 | P0 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Acloud) |
-| P1 | [5](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Acloud) |
+| P1 | [6](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Acloud) |
 | P2 | [2](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2%20label%3Acloud) |
 ## Tooling
 
