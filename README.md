@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [863](https://github.com/WildernessLabs/Meadow_Issues/issues/863) | [CLI - `meadow file read` to folder hangs if folder doesn't exist](https://github.com/WildernessLabs/Meadow_Issues/issues/863) |
 ## Needs Re-Test
 
 | Issue | Title |
