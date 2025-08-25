@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [866](https://github.com/WildernessLabs/Meadow_Issues/issues/866) | [Meadow Listen reconnect on device reboot](https://github.com/WildernessLabs/Meadow_Issues/issues/866) |
 | [865](https://github.com/WildernessLabs/Meadow_Issues/issues/865) | [Optimization: use 24bpp buffers for display simulations](https://github.com/WildernessLabs/Meadow_Issues/issues/865) |
 ## Needs Re-Test
 
