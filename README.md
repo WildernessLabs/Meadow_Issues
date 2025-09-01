@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [869](https://github.com/WildernessLabs/Meadow_Issues/issues/869) | [Project Lab v5b LED starts ON and never shuts off](https://github.com/WildernessLabs/Meadow_Issues/issues/869) |
 | [868](https://github.com/WildernessLabs/Meadow_Issues/issues/868) | [MicroLayout - `IsVisible` property doesnt work](https://github.com/WildernessLabs/Meadow_Issues/issues/868) |
 | [867](https://github.com/WildernessLabs/Meadow_Issues/issues/867) | [Meadow CLI ignores app.config.yaml when building](https://github.com/WildernessLabs/Meadow_Issues/issues/867) |
 | [866](https://github.com/WildernessLabs/Meadow_Issues/issues/866) | [Meadow Listen reconnect on device reboot](https://github.com/WildernessLabs/Meadow_Issues/issues/866) |
