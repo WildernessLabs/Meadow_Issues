@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [872](https://github.com/WildernessLabs/Meadow_Issues/issues/872) | [Winbond flash chip driver (w25qxxxjv.c) with commit f1957d09490e5b21e603abe1b73d9035944bf3f3 reduced reliability](https://github.com/WildernessLabs/Meadow_Issues/issues/872) |
 | [871](https://github.com/WildernessLabs/Meadow_Issues/issues/871) | [Add Supports for wifi AP (access point) mode](https://github.com/WildernessLabs/Meadow_Issues/issues/871) |
 | [870](https://github.com/WildernessLabs/Meadow_Issues/issues/870) | [CLI: Add the ability to pull crash information from the board](https://github.com/WildernessLabs/Meadow_Issues/issues/870) |
 | [868](https://github.com/WildernessLabs/Meadow_Issues/issues/868) | [MicroLayout - `IsVisible` property doesnt work](https://github.com/WildernessLabs/Meadow_Issues/issues/868) |
