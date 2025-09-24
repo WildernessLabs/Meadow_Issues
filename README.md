@@ -12,7 +12,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [868](https://github.com/WildernessLabs/Meadow_Issues/issues/868) | [MicroLayout - `IsVisible` property doesnt work](https://github.com/WildernessLabs/Meadow_Issues/issues/868) |
 | [867](https://github.com/WildernessLabs/Meadow_Issues/issues/867) | [Meadow CLI ignores app.config.yaml when building](https://github.com/WildernessLabs/Meadow_Issues/issues/867) |
 | [866](https://github.com/WildernessLabs/Meadow_Issues/issues/866) | [Meadow Listen reconnect on device reboot](https://github.com/WildernessLabs/Meadow_Issues/issues/866) |
-| [865](https://github.com/WildernessLabs/Meadow_Issues/issues/865) | [Optimization: use 24bpp buffers for display simulations](https://github.com/WildernessLabs/Meadow_Issues/issues/865) |
 ## Needs Re-Test
 
 | Issue | Title |
@@ -33,7 +32,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 |:------|-:|
 | P0 | [1](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
 | P1 | [42](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [23](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P2 | [22](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
