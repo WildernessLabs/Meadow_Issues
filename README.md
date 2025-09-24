@@ -6,7 +6,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [876](https://github.com/WildernessLabs/Meadow_Issues/issues/876) | [CLI 2.2.0.2's user visible text, for a download failure, still reports 100% downloaded.](https://github.com/WildernessLabs/Meadow_Issues/issues/876) |
 | [875](https://github.com/WildernessLabs/Meadow_Issues/issues/875) | [CLI 2.2.0.2: meadow firmware write runtime does not honour configured route](https://github.com/WildernessLabs/Meadow_Issues/issues/875) |
 | [871](https://github.com/WildernessLabs/Meadow_Issues/issues/871) | [Add Supports for wifi AP (access point) mode](https://github.com/WildernessLabs/Meadow_Issues/issues/871) |
 | [870](https://github.com/WildernessLabs/Meadow_Issues/issues/870) | [CLI: Add the ability to pull crash information from the board](https://github.com/WildernessLabs/Meadow_Issues/issues/870) |
