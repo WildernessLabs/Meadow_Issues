@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [879](https://github.com/WildernessLabs/Meadow_Issues/issues/879) | [Maple shows OS error when WiFi is disconnected](https://github.com/WildernessLabs/Meadow_Issues/issues/879) |
 ## Needs Re-Test
 
 | Issue | Title |
