@@ -20,14 +20,14 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [552](https://github.com/WildernessLabs/Meadow_Issues/issues/552) | [First Ethernet request is unacceptably slow](https://github.com/WildernessLabs/Meadow_Issues/issues/552) |
 | [439](https://github.com/WildernessLabs/Meadow_Issues/issues/439) | [Sockets TcpListener and TcpClient - ESP32 "disappears" - No ping](https://github.com/WildernessLabs/Meadow_Issues/issues/439) |
 | [435](https://github.com/WildernessLabs/Meadow_Issues/issues/435) | [Network generating a wake interrupt? Sort of?](https://github.com/WildernessLabs/Meadow_Issues/issues/435) |
-| [553](https://github.com/WildernessLabs/Meadow_Issues/issues/553) | [Mlx90640 Driver and sample do not work as expected](https://github.com/WildernessLabs/Meadow_Issues/issues/553) |
 | [607](https://github.com/WildernessLabs/Meadow_Issues/issues/607) | [ Issue with ClientWebSocket connection](https://github.com/WildernessLabs/Meadow_Issues/issues/607) |
+| [323](https://github.com/WildernessLabs/Meadow_Issues/issues/323) | [Scan for access points sometimes returns corrupt information](https://github.com/WildernessLabs/Meadow_Issues/issues/323) |
 ## Open Bugs
 
 | Query |  |
 |:------|-:|
 | P0 | [1](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
-| P1 | [41](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
+| P1 | [40](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
 | P2 | [22](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
@@ -48,7 +48,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Query |  |
 |:------|-:|
 | P0 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Afoundation) |
-| P1 | [5](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Afoundation) |
+| P1 | [4](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Afoundation) |
 | P2 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2%20label%3Afoundation) |
 ## Meadow.Cloud
 
