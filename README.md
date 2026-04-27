@@ -47,7 +47,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Query |  |
 |:------|-:|
 | P0 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Afoundation) |
-| P1 | [3](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Afoundation) |
+| P1 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Afoundation) |
 | P2 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2%20label%3Afoundation) |
 ## Meadow.Cloud
 
