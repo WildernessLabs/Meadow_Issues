@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [885](https://github.com/WildernessLabs/Meadow_Issues/issues/885) | [MicroJson Time Parsing](https://github.com/WildernessLabs/Meadow_Issues/issues/885) |
 | [884](https://github.com/WildernessLabs/Meadow_Issues/issues/884) | [MicroJson.Deserialize null lists](https://github.com/WildernessLabs/Meadow_Issues/issues/884) |
 | [879](https://github.com/WildernessLabs/Meadow_Issues/issues/879) | [Maple shows OS error when WiFi is disconnected](https://github.com/WildernessLabs/Meadow_Issues/issues/879) |
 ## Needs Re-Test
