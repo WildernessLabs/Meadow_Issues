@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [889](https://github.com/WildernessLabs/Meadow_Issues/issues/889) | [Shopify store down?](https://github.com/WildernessLabs/Meadow_Issues/issues/889) |
 | [887](https://github.com/WildernessLabs/Meadow_Issues/issues/887) | [Meadow.CLI 3.0.0-beta5: meadow app run generates an error `A spinner is already running`](https://github.com/WildernessLabs/Meadow_Issues/issues/887) |
 | [886](https://github.com/WildernessLabs/Meadow_Issues/issues/886) | [Meadow.CLI: SanitizeMeadowFilename silently mangles a trailing-slash target path](https://github.com/WildernessLabs/Meadow_Issues/issues/886) |
 | [885](https://github.com/WildernessLabs/Meadow_Issues/issues/885) | [MicroJson Time Parsing](https://github.com/WildernessLabs/Meadow_Issues/issues/885) |
