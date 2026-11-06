@@ -6,6 +6,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [892](https://github.com/WildernessLabs/Meadow_Issues/issues/892) | [Meadow.CLI: file read of a missing device file times out after 30 seconds and exits 0](https://github.com/WildernessLabs/Meadow_Issues/issues/892) |
+| [891](https://github.com/WildernessLabs/Meadow_Issues/issues/891) | [Meadow.CLI: file read with a relative or missing local path fails after a 30 second timeout](https://github.com/WildernessLabs/Meadow_Issues/issues/891) |
 | [890](https://github.com/WildernessLabs/Meadow_Issues/issues/890) | [File system full not reported correctly during file write](https://github.com/WildernessLabs/Meadow_Issues/issues/890) |
 | [889](https://github.com/WildernessLabs/Meadow_Issues/issues/889) | [Shopify store down?](https://github.com/WildernessLabs/Meadow_Issues/issues/889) |
 | [887](https://github.com/WildernessLabs/Meadow_Issues/issues/887) | [Meadow.CLI 3.0.0-beta5: meadow app run generates an error `A spinner is already running`](https://github.com/WildernessLabs/Meadow_Issues/issues/887) |
