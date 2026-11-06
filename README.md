@@ -6,12 +6,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
-| [892](https://github.com/WildernessLabs/Meadow_Issues/issues/892) | [Meadow.CLI: file read of a missing device file times out after 30 seconds and exits 0](https://github.com/WildernessLabs/Meadow_Issues/issues/892) |
-| [891](https://github.com/WildernessLabs/Meadow_Issues/issues/891) | [Meadow.CLI: file read with a relative or missing local path fails after a 30 second timeout](https://github.com/WildernessLabs/Meadow_Issues/issues/891) |
 | [890](https://github.com/WildernessLabs/Meadow_Issues/issues/890) | [File system full not reported correctly during file write](https://github.com/WildernessLabs/Meadow_Issues/issues/890) |
 | [889](https://github.com/WildernessLabs/Meadow_Issues/issues/889) | [Shopify store down?](https://github.com/WildernessLabs/Meadow_Issues/issues/889) |
-| [887](https://github.com/WildernessLabs/Meadow_Issues/issues/887) | [Meadow.CLI 3.0.0-beta5: meadow app run generates an error `A spinner is already running`](https://github.com/WildernessLabs/Meadow_Issues/issues/887) |
-| [886](https://github.com/WildernessLabs/Meadow_Issues/issues/886) | [Meadow.CLI: SanitizeMeadowFilename silently mangles a trailing-slash target path](https://github.com/WildernessLabs/Meadow_Issues/issues/886) |
 | [885](https://github.com/WildernessLabs/Meadow_Issues/issues/885) | [MicroJson Time Parsing](https://github.com/WildernessLabs/Meadow_Issues/issues/885) |
 | [884](https://github.com/WildernessLabs/Meadow_Issues/issues/884) | [MicroJson.Deserialize null lists](https://github.com/WildernessLabs/Meadow_Issues/issues/884) |
 | [879](https://github.com/WildernessLabs/Meadow_Issues/issues/879) | [Maple shows OS error when WiFi is disconnected](https://github.com/WildernessLabs/Meadow_Issues/issues/879) |
@@ -34,8 +30,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Query |  |
 |:------|-:|
 | P0 | [1](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
-| P1 | [38](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [22](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P1 | [37](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
+| P2 | [21](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
@@ -62,7 +58,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Query |  |
 |:------|-:|
 | P0 | [0](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0%20label%3Acloud) |
-| P1 | [6](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Acloud) |
+| P1 | [5](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1%20label%3Acloud) |
 | P2 | [2](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2%20label%3Acloud) |
 ## Tooling
 
