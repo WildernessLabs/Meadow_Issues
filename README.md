@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [893](https://github.com/WildernessLabs/Meadow_Issues/issues/893) | [CLI: 'meadow app config set' overwrites app.config.yaml with meadow.config.yaml contents](https://github.com/WildernessLabs/Meadow_Issues/issues/893) |
 | [890](https://github.com/WildernessLabs/Meadow_Issues/issues/890) | [File system full not reported correctly during file write](https://github.com/WildernessLabs/Meadow_Issues/issues/890) |
 | [889](https://github.com/WildernessLabs/Meadow_Issues/issues/889) | [Shopify store down?](https://github.com/WildernessLabs/Meadow_Issues/issues/889) |
 | [885](https://github.com/WildernessLabs/Meadow_Issues/issues/885) | [MicroJson Time Parsing](https://github.com/WildernessLabs/Meadow_Issues/issues/885) |
