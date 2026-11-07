@@ -10,12 +10,12 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [899](https://github.com/WildernessLabs/Meadow_Issues/issues/899) | [TftSpi 3.0.2-beta: partial refresh on Project Lab is slower than a full refresh](https://github.com/WildernessLabs/Meadow_Issues/issues/899) |
 | [898](https://github.com/WildernessLabs/Meadow_Issues/issues/898) | [3.0.0.0: ConnectToDefaultAccessPoint during OS auto-connect freezes the whole app](https://github.com/WildernessLabs/Meadow_Issues/issues/898) |
 | [897](https://github.com/WildernessLabs/Meadow_Issues/issues/897) | [3.0.0.0 / ESP32 2.5.0.0: EspResetPanic on first boot after wifi.config.yaml is written; app does not start](https://github.com/WildernessLabs/Meadow_Issues/issues/897) |
-| [896](https://github.com/WildernessLabs/Meadow_Issues/issues/896) | [CLI: 'meadow app run' deletes wifi.config.yaml and meadow.config.yaml from the device](https://github.com/WildernessLabs/Meadow_Issues/issues/896) |
-| [895](https://github.com/WildernessLabs/Meadow_Issues/issues/895) | [CLI 3.0.3: runtime disable/enable and app run report 'The operation has timed out' although the step completes](https://github.com/WildernessLabs/Meadow_Issues/issues/895) |
 | [894](https://github.com/WildernessLabs/Meadow_Issues/issues/894) | [3.0.0.0: trim fails with IL2009 on the .NET 11 BCL (SR.GetUsingResourceKeysSwitchValue missing)](https://github.com/WildernessLabs/Meadow_Issues/issues/894) |
-| [893](https://github.com/WildernessLabs/Meadow_Issues/issues/893) | [CLI: 'meadow app config set' overwrites app.config.yaml with meadow.config.yaml contents](https://github.com/WildernessLabs/Meadow_Issues/issues/893) |
 | [890](https://github.com/WildernessLabs/Meadow_Issues/issues/890) | [File system full not reported correctly during file write](https://github.com/WildernessLabs/Meadow_Issues/issues/890) |
 | [889](https://github.com/WildernessLabs/Meadow_Issues/issues/889) | [Shopify store down?](https://github.com/WildernessLabs/Meadow_Issues/issues/889) |
+| [885](https://github.com/WildernessLabs/Meadow_Issues/issues/885) | [MicroJson Time Parsing](https://github.com/WildernessLabs/Meadow_Issues/issues/885) |
+| [884](https://github.com/WildernessLabs/Meadow_Issues/issues/884) | [MicroJson.Deserialize null lists](https://github.com/WildernessLabs/Meadow_Issues/issues/884) |
+| [879](https://github.com/WildernessLabs/Meadow_Issues/issues/879) | [Maple shows OS error when WiFi is disconnected](https://github.com/WildernessLabs/Meadow_Issues/issues/879) |
 ## Needs Re-Test
 
 | Issue | Title |
@@ -35,8 +35,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | Query |  |
 |:------|-:|
 | P0 | [1](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap0) |
-| P1 | [37](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
-| P2 | [21](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
+| P1 | [34](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap1) |
+| P2 | [20](https://github.com/WildernessLabs/Meadow_Issues/issues?q=is%3Aopen%20is%3Aissue%20label%3Abug%20label%3Ap2) |
 ## Meadow.OS
 
 | Query |  |
