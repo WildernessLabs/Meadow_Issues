@@ -6,6 +6,8 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [901](https://github.com/WildernessLabs/Meadow_Issues/issues/901) | [3.0.0.0: runtime restarts silently during HttpClient requests over Wi-Fi](https://github.com/WildernessLabs/Meadow_Issues/issues/901) |
+| [900](https://github.com/WildernessLabs/Meadow_Issues/issues/900) | [3.0.0.0: quoted values in wifi.config.yaml stop auto-connect (stays Connecting, no event)](https://github.com/WildernessLabs/Meadow_Issues/issues/900) |
 | [899](https://github.com/WildernessLabs/Meadow_Issues/issues/899) | [TftSpi 3.0.2-beta: partial refresh on Project Lab is slower than a full refresh](https://github.com/WildernessLabs/Meadow_Issues/issues/899) |
 | [897](https://github.com/WildernessLabs/Meadow_Issues/issues/897) | [3.0.0.0 / ESP32 2.5.0.0: EspResetPanic on first boot after wifi.config.yaml is written; app does not start](https://github.com/WildernessLabs/Meadow_Issues/issues/897) |
 | [898](https://github.com/WildernessLabs/Meadow_Issues/issues/898) | [3.0.0.0: ConnectToDefaultAccessPoint during OS auto-connect freezes the whole app](https://github.com/WildernessLabs/Meadow_Issues/issues/898) |
@@ -14,8 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [894](https://github.com/WildernessLabs/Meadow_Issues/issues/894) | [3.0.0.0: trim fails with IL2009 on the .NET 11 BCL (SR.GetUsingResourceKeysSwitchValue missing)](https://github.com/WildernessLabs/Meadow_Issues/issues/894) |
 | [893](https://github.com/WildernessLabs/Meadow_Issues/issues/893) | [CLI: 'meadow app config set' overwrites app.config.yaml with meadow.config.yaml contents](https://github.com/WildernessLabs/Meadow_Issues/issues/893) |
 | [890](https://github.com/WildernessLabs/Meadow_Issues/issues/890) | [File system full not reported correctly during file write](https://github.com/WildernessLabs/Meadow_Issues/issues/890) |
-| [889](https://github.com/WildernessLabs/Meadow_Issues/issues/889) | [Shopify store down?](https://github.com/WildernessLabs/Meadow_Issues/issues/889) |
-| [885](https://github.com/WildernessLabs/Meadow_Issues/issues/885) | [MicroJson Time Parsing](https://github.com/WildernessLabs/Meadow_Issues/issues/885) |
 ## Needs Re-Test
 
 | Issue | Title |
