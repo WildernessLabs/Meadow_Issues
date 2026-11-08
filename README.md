@@ -6,6 +6,7 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 
 | Issue | Title |
 |---|---|
+| [902](https://github.com/WildernessLabs/Meadow_Issues/issues/902) | [CLI 3.0.4: meadow app run loses the app output printed while runtime enable is waiting](https://github.com/WildernessLabs/Meadow_Issues/issues/902) |
 | [901](https://github.com/WildernessLabs/Meadow_Issues/issues/901) | [3.0.0.0: runtime restarts silently during HttpClient requests over Wi-Fi](https://github.com/WildernessLabs/Meadow_Issues/issues/901) |
 | [899](https://github.com/WildernessLabs/Meadow_Issues/issues/899) | [TftSpi 3.0.2-beta: partial refresh on Project Lab is slower than a full refresh](https://github.com/WildernessLabs/Meadow_Issues/issues/899) |
 | [898](https://github.com/WildernessLabs/Meadow_Issues/issues/898) | [3.0.0.0: ConnectToDefaultAccessPoint during OS auto-connect freezes the whole app](https://github.com/WildernessLabs/Meadow_Issues/issues/898) |
@@ -15,7 +16,6 @@ Please use this repo to [file issues](https://github.com/WildernessLabs/Meadow_I
 | [889](https://github.com/WildernessLabs/Meadow_Issues/issues/889) | [Shopify store down?](https://github.com/WildernessLabs/Meadow_Issues/issues/889) |
 | [885](https://github.com/WildernessLabs/Meadow_Issues/issues/885) | [MicroJson Time Parsing](https://github.com/WildernessLabs/Meadow_Issues/issues/885) |
 | [884](https://github.com/WildernessLabs/Meadow_Issues/issues/884) | [MicroJson.Deserialize null lists](https://github.com/WildernessLabs/Meadow_Issues/issues/884) |
-| [879](https://github.com/WildernessLabs/Meadow_Issues/issues/879) | [Maple shows OS error when WiFi is disconnected](https://github.com/WildernessLabs/Meadow_Issues/issues/879) |
 ## Needs Re-Test
 
 | Issue | Title |
